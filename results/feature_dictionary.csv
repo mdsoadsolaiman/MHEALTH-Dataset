@@ -1,0 +1,139 @@
+file_column,channel,source,modality,unit,statistic,feature
+1,chest_acc_x,chest,acc,m/s²,mean,chest_acc_x__mean
+1,chest_acc_x,chest,acc,m/s²,std,chest_acc_x__std
+1,chest_acc_x,chest,acc,m/s²,min,chest_acc_x__min
+1,chest_acc_x,chest,acc,m/s²,max,chest_acc_x__max
+1,chest_acc_x,chest,acc,m/s²,rms,chest_acc_x__rms
+1,chest_acc_x,chest,acc,m/s²,iqr,chest_acc_x__iqr
+2,chest_acc_y,chest,acc,m/s²,mean,chest_acc_y__mean
+2,chest_acc_y,chest,acc,m/s²,std,chest_acc_y__std
+2,chest_acc_y,chest,acc,m/s²,min,chest_acc_y__min
+2,chest_acc_y,chest,acc,m/s²,max,chest_acc_y__max
+2,chest_acc_y,chest,acc,m/s²,rms,chest_acc_y__rms
+2,chest_acc_y,chest,acc,m/s²,iqr,chest_acc_y__iqr
+3,chest_acc_z,chest,acc,m/s²,mean,chest_acc_z__mean
+3,chest_acc_z,chest,acc,m/s²,std,chest_acc_z__std
+3,chest_acc_z,chest,acc,m/s²,min,chest_acc_z__min
+3,chest_acc_z,chest,acc,m/s²,max,chest_acc_z__max
+3,chest_acc_z,chest,acc,m/s²,rms,chest_acc_z__rms
+3,chest_acc_z,chest,acc,m/s²,iqr,chest_acc_z__iqr
+4,chest_ecg_1,chest,ecg,mV,mean,chest_ecg_1__mean
+4,chest_ecg_1,chest,ecg,mV,std,chest_ecg_1__std
+4,chest_ecg_1,chest,ecg,mV,min,chest_ecg_1__min
+4,chest_ecg_1,chest,ecg,mV,max,chest_ecg_1__max
+4,chest_ecg_1,chest,ecg,mV,rms,chest_ecg_1__rms
+4,chest_ecg_1,chest,ecg,mV,iqr,chest_ecg_1__iqr
+5,chest_ecg_2,chest,ecg,mV,mean,chest_ecg_2__mean
+5,chest_ecg_2,chest,ecg,mV,std,chest_ecg_2__std
+5,chest_ecg_2,chest,ecg,mV,min,chest_ecg_2__min
+5,chest_ecg_2,chest,ecg,mV,max,chest_ecg_2__max
+5,chest_ecg_2,chest,ecg,mV,rms,chest_ecg_2__rms
+5,chest_ecg_2,chest,ecg,mV,iqr,chest_ecg_2__iqr
+6,ankle_acc_x,ankle,acc,m/s²,mean,ankle_acc_x__mean
+6,ankle_acc_x,ankle,acc,m/s²,std,ankle_acc_x__std
+6,ankle_acc_x,ankle,acc,m/s²,min,ankle_acc_x__min
+6,ankle_acc_x,ankle,acc,m/s²,max,ankle_acc_x__max
+6,ankle_acc_x,ankle,acc,m/s²,rms,ankle_acc_x__rms
+6,ankle_acc_x,ankle,acc,m/s²,iqr,ankle_acc_x__iqr
+7,ankle_acc_y,ankle,acc,m/s²,mean,ankle_acc_y__mean
+7,ankle_acc_y,ankle,acc,m/s²,std,ankle_acc_y__std
+7,ankle_acc_y,ankle,acc,m/s²,min,ankle_acc_y__min
+7,ankle_acc_y,ankle,acc,m/s²,max,ankle_acc_y__max
+7,ankle_acc_y,ankle,acc,m/s²,rms,ankle_acc_y__rms
+7,ankle_acc_y,ankle,acc,m/s²,iqr,ankle_acc_y__iqr
+8,ankle_acc_z,ankle,acc,m/s²,mean,ankle_acc_z__mean
+8,ankle_acc_z,ankle,acc,m/s²,std,ankle_acc_z__std
+8,ankle_acc_z,ankle,acc,m/s²,min,ankle_acc_z__min
+8,ankle_acc_z,ankle,acc,m/s²,max,ankle_acc_z__max
+8,ankle_acc_z,ankle,acc,m/s²,rms,ankle_acc_z__rms
+8,ankle_acc_z,ankle,acc,m/s²,iqr,ankle_acc_z__iqr
+9,ankle_gyro_x,ankle,gyro,documented deg/s,mean,ankle_gyro_x__mean
+9,ankle_gyro_x,ankle,gyro,documented deg/s,std,ankle_gyro_x__std
+9,ankle_gyro_x,ankle,gyro,documented deg/s,min,ankle_gyro_x__min
+9,ankle_gyro_x,ankle,gyro,documented deg/s,max,ankle_gyro_x__max
+9,ankle_gyro_x,ankle,gyro,documented deg/s,rms,ankle_gyro_x__rms
+9,ankle_gyro_x,ankle,gyro,documented deg/s,iqr,ankle_gyro_x__iqr
+10,ankle_gyro_y,ankle,gyro,documented deg/s,mean,ankle_gyro_y__mean
+10,ankle_gyro_y,ankle,gyro,documented deg/s,std,ankle_gyro_y__std
+10,ankle_gyro_y,ankle,gyro,documented deg/s,min,ankle_gyro_y__min
+10,ankle_gyro_y,ankle,gyro,documented deg/s,max,ankle_gyro_y__max
+10,ankle_gyro_y,ankle,gyro,documented deg/s,rms,ankle_gyro_y__rms
+10,ankle_gyro_y,ankle,gyro,documented deg/s,iqr,ankle_gyro_y__iqr
+11,ankle_gyro_z,ankle,gyro,documented deg/s,mean,ankle_gyro_z__mean
+11,ankle_gyro_z,ankle,gyro,documented deg/s,std,ankle_gyro_z__std
+11,ankle_gyro_z,ankle,gyro,documented deg/s,min,ankle_gyro_z__min
+11,ankle_gyro_z,ankle,gyro,documented deg/s,max,ankle_gyro_z__max
+11,ankle_gyro_z,ankle,gyro,documented deg/s,rms,ankle_gyro_z__rms
+11,ankle_gyro_z,ankle,gyro,documented deg/s,iqr,ankle_gyro_z__iqr
+12,ankle_mag_x,ankle,mag,local units,mean,ankle_mag_x__mean
+12,ankle_mag_x,ankle,mag,local units,std,ankle_mag_x__std
+12,ankle_mag_x,ankle,mag,local units,min,ankle_mag_x__min
+12,ankle_mag_x,ankle,mag,local units,max,ankle_mag_x__max
+12,ankle_mag_x,ankle,mag,local units,rms,ankle_mag_x__rms
+12,ankle_mag_x,ankle,mag,local units,iqr,ankle_mag_x__iqr
+13,ankle_mag_y,ankle,mag,local units,mean,ankle_mag_y__mean
+13,ankle_mag_y,ankle,mag,local units,std,ankle_mag_y__std
+13,ankle_mag_y,ankle,mag,local units,min,ankle_mag_y__min
+13,ankle_mag_y,ankle,mag,local units,max,ankle_mag_y__max
+13,ankle_mag_y,ankle,mag,local units,rms,ankle_mag_y__rms
+13,ankle_mag_y,ankle,mag,local units,iqr,ankle_mag_y__iqr
+14,ankle_mag_z,ankle,mag,local units,mean,ankle_mag_z__mean
+14,ankle_mag_z,ankle,mag,local units,std,ankle_mag_z__std
+14,ankle_mag_z,ankle,mag,local units,min,ankle_mag_z__min
+14,ankle_mag_z,ankle,mag,local units,max,ankle_mag_z__max
+14,ankle_mag_z,ankle,mag,local units,rms,ankle_mag_z__rms
+14,ankle_mag_z,ankle,mag,local units,iqr,ankle_mag_z__iqr
+15,wrist_acc_x,wrist,acc,m/s²,mean,wrist_acc_x__mean
+15,wrist_acc_x,wrist,acc,m/s²,std,wrist_acc_x__std
+15,wrist_acc_x,wrist,acc,m/s²,min,wrist_acc_x__min
+15,wrist_acc_x,wrist,acc,m/s²,max,wrist_acc_x__max
+15,wrist_acc_x,wrist,acc,m/s²,rms,wrist_acc_x__rms
+15,wrist_acc_x,wrist,acc,m/s²,iqr,wrist_acc_x__iqr
+16,wrist_acc_y,wrist,acc,m/s²,mean,wrist_acc_y__mean
+16,wrist_acc_y,wrist,acc,m/s²,std,wrist_acc_y__std
+16,wrist_acc_y,wrist,acc,m/s²,min,wrist_acc_y__min
+16,wrist_acc_y,wrist,acc,m/s²,max,wrist_acc_y__max
+16,wrist_acc_y,wrist,acc,m/s²,rms,wrist_acc_y__rms
+16,wrist_acc_y,wrist,acc,m/s²,iqr,wrist_acc_y__iqr
+17,wrist_acc_z,wrist,acc,m/s²,mean,wrist_acc_z__mean
+17,wrist_acc_z,wrist,acc,m/s²,std,wrist_acc_z__std
+17,wrist_acc_z,wrist,acc,m/s²,min,wrist_acc_z__min
+17,wrist_acc_z,wrist,acc,m/s²,max,wrist_acc_z__max
+17,wrist_acc_z,wrist,acc,m/s²,rms,wrist_acc_z__rms
+17,wrist_acc_z,wrist,acc,m/s²,iqr,wrist_acc_z__iqr
+18,wrist_gyro_x,wrist,gyro,documented deg/s,mean,wrist_gyro_x__mean
+18,wrist_gyro_x,wrist,gyro,documented deg/s,std,wrist_gyro_x__std
+18,wrist_gyro_x,wrist,gyro,documented deg/s,min,wrist_gyro_x__min
+18,wrist_gyro_x,wrist,gyro,documented deg/s,max,wrist_gyro_x__max
+18,wrist_gyro_x,wrist,gyro,documented deg/s,rms,wrist_gyro_x__rms
+18,wrist_gyro_x,wrist,gyro,documented deg/s,iqr,wrist_gyro_x__iqr
+19,wrist_gyro_y,wrist,gyro,documented deg/s,mean,wrist_gyro_y__mean
+19,wrist_gyro_y,wrist,gyro,documented deg/s,std,wrist_gyro_y__std
+19,wrist_gyro_y,wrist,gyro,documented deg/s,min,wrist_gyro_y__min
+19,wrist_gyro_y,wrist,gyro,documented deg/s,max,wrist_gyro_y__max
+19,wrist_gyro_y,wrist,gyro,documented deg/s,rms,wrist_gyro_y__rms
+19,wrist_gyro_y,wrist,gyro,documented deg/s,iqr,wrist_gyro_y__iqr
+20,wrist_gyro_z,wrist,gyro,documented deg/s,mean,wrist_gyro_z__mean
+20,wrist_gyro_z,wrist,gyro,documented deg/s,std,wrist_gyro_z__std
+20,wrist_gyro_z,wrist,gyro,documented deg/s,min,wrist_gyro_z__min
+20,wrist_gyro_z,wrist,gyro,documented deg/s,max,wrist_gyro_z__max
+20,wrist_gyro_z,wrist,gyro,documented deg/s,rms,wrist_gyro_z__rms
+20,wrist_gyro_z,wrist,gyro,documented deg/s,iqr,wrist_gyro_z__iqr
+21,wrist_mag_x,wrist,mag,local units,mean,wrist_mag_x__mean
+21,wrist_mag_x,wrist,mag,local units,std,wrist_mag_x__std
+21,wrist_mag_x,wrist,mag,local units,min,wrist_mag_x__min
+21,wrist_mag_x,wrist,mag,local units,max,wrist_mag_x__max
+21,wrist_mag_x,wrist,mag,local units,rms,wrist_mag_x__rms
+21,wrist_mag_x,wrist,mag,local units,iqr,wrist_mag_x__iqr
+22,wrist_mag_y,wrist,mag,local units,mean,wrist_mag_y__mean
+22,wrist_mag_y,wrist,mag,local units,std,wrist_mag_y__std
+22,wrist_mag_y,wrist,mag,local units,min,wrist_mag_y__min
+22,wrist_mag_y,wrist,mag,local units,max,wrist_mag_y__max
+22,wrist_mag_y,wrist,mag,local units,rms,wrist_mag_y__rms
+22,wrist_mag_y,wrist,mag,local units,iqr,wrist_mag_y__iqr
+23,wrist_mag_z,wrist,mag,local units,mean,wrist_mag_z__mean
+23,wrist_mag_z,wrist,mag,local units,std,wrist_mag_z__std
+23,wrist_mag_z,wrist,mag,local units,min,wrist_mag_z__min
+23,wrist_mag_z,wrist,mag,local units,max,wrist_mag_z__max
+23,wrist_mag_z,wrist,mag,local units,rms,wrist_mag_z__rms
+23,wrist_mag_z,wrist,mag,local units,iqr,wrist_mag_z__iqr

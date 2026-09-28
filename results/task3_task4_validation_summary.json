@@ -1,0 +1,16 @@
+{
+  "notebook_code_cells": {
+    "03_task3_multimodal_fusion_modelling.ipynb": 6,
+    "04_task4_evaluation_critical_discussion.ipynb": 11,
+    "MHEALTH_Tasks_1_2.ipynb": 10
+  },
+  "models": 7,
+  "outer_folds": 10,
+  "completed_model_fold_evaluations": 70,
+  "forest_fits": 60,
+  "matched_windows_per_model": 4581,
+  "task3_or_4_failed_experiments": 0,
+  "formal_rubric_verified": false,
+  "figures_visually_inspected": 7,
+  "execution": "fresh-process sequential IPython; native Jupyter kernel sockets unavailable"
+}

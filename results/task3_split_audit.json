@@ -1,0 +1,172 @@
+[
+  {
+    "fold": 1,
+    "test_participant": 1,
+    "training_participants": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "train_windows": 4112,
+    "test_windows": 469
+  },
+  {
+    "fold": 2,
+    "test_participant": 2,
+    "training_participants": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "train_windows": 4105,
+    "test_windows": 476
+  },
+  {
+    "fold": 3,
+    "test_participant": 3,
+    "training_participants": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "train_windows": 4113,
+    "test_windows": 468
+  },
+  {
+    "fold": 4,
+    "test_participant": 4,
+    "training_participants": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "train_windows": 4122,
+    "test_windows": 459
+  },
+  {
+    "fold": 5,
+    "test_participant": 5,
+    "training_participants": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "train_windows": 4123,
+    "test_windows": 458
+  },
+  {
+    "fold": 6,
+    "test_participant": 6,
+    "training_participants": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10
+    ],
+    "train_windows": 4146,
+    "test_windows": 435
+  },
+  {
+    "fold": 7,
+    "test_participant": 7,
+    "training_participants": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10
+    ],
+    "train_windows": 4113,
+    "test_windows": 468
+  },
+  {
+    "fold": 8,
+    "test_participant": 8,
+    "training_participants": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "train_windows": 4142,
+    "test_windows": 439
+  },
+  {
+    "fold": 9,
+    "test_participant": 9,
+    "training_participants": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10
+    ],
+    "train_windows": 4120,
+    "test_windows": 461
+  },
+  {
+    "fold": 10,
+    "test_participant": 10,
+    "training_participants": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "train_windows": 4133,
+    "test_windows": 448
+  }
+]

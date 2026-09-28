@@ -1,0 +1,241 @@
+fusion,comparator,metric,participant,difference_pp
+Feature fusion,Chest accelerometer,accuracy,1,19.82942430703625
+Feature fusion,Chest accelerometer,accuracy,2,17.226890756302517
+Feature fusion,Chest accelerometer,accuracy,3,-3.8461538461538436
+Feature fusion,Chest accelerometer,accuracy,4,11.982570806100224
+Feature fusion,Chest accelerometer,accuracy,5,8.078602620087338
+Feature fusion,Chest accelerometer,accuracy,6,-1.839080459770115
+Feature fusion,Chest accelerometer,accuracy,7,27.99145299145299
+Feature fusion,Chest accelerometer,accuracy,8,32.80182232346242
+Feature fusion,Chest accelerometer,accuracy,9,10.629067245119305
+Feature fusion,Chest accelerometer,accuracy,10,14.28571428571429
+Feature fusion,Chest accelerometer,macro_f1,1,19.095771638052796
+Feature fusion,Chest accelerometer,macro_f1,2,22.76821913990159
+Feature fusion,Chest accelerometer,macro_f1,3,-5.329342786668145
+Feature fusion,Chest accelerometer,macro_f1,4,14.251493736222077
+Feature fusion,Chest accelerometer,macro_f1,5,8.278170452178625
+Feature fusion,Chest accelerometer,macro_f1,6,0.6754064886036915
+Feature fusion,Chest accelerometer,macro_f1,7,30.162687000981236
+Feature fusion,Chest accelerometer,macro_f1,8,31.76477657324872
+Feature fusion,Chest accelerometer,macro_f1,9,12.403349938699993
+Feature fusion,Chest accelerometer,macro_f1,10,15.55867895976718
+Feature fusion,Ankle accelerometer,accuracy,1,20.895522388059696
+Feature fusion,Ankle accelerometer,accuracy,2,6.72268907563025
+Feature fusion,Ankle accelerometer,accuracy,3,-0.21367521367521292
+Feature fusion,Ankle accelerometer,accuracy,4,11.328976034858385
+Feature fusion,Ankle accelerometer,accuracy,5,10.698689956331886
+Feature fusion,Ankle accelerometer,accuracy,6,4.597701149425282
+Feature fusion,Ankle accelerometer,accuracy,7,13.247863247863245
+Feature fusion,Ankle accelerometer,accuracy,8,6.605922551252852
+Feature fusion,Ankle accelerometer,accuracy,9,3.0368763557483747
+Feature fusion,Ankle accelerometer,accuracy,10,27.901785714285708
+Feature fusion,Ankle accelerometer,macro_f1,1,18.51013862230785
+Feature fusion,Ankle accelerometer,macro_f1,2,4.025109167193753
+Feature fusion,Ankle accelerometer,macro_f1,3,-2.671526457313955
+Feature fusion,Ankle accelerometer,macro_f1,4,14.185572815038006
+Feature fusion,Ankle accelerometer,macro_f1,5,11.04773970097288
+Feature fusion,Ankle accelerometer,macro_f1,6,8.810480950311451
+Feature fusion,Ankle accelerometer,macro_f1,7,15.355248202170236
+Feature fusion,Ankle accelerometer,macro_f1,8,7.499492020373033
+Feature fusion,Ankle accelerometer,macro_f1,9,2.9129112195152462
+Feature fusion,Ankle accelerometer,macro_f1,10,26.543643561899145
+Feature fusion,Wrist accelerometer,accuracy,1,18.76332622601279
+Feature fusion,Wrist accelerometer,accuracy,2,25.0
+Feature fusion,Wrist accelerometer,accuracy,3,17.73504273504273
+Feature fusion,Wrist accelerometer,accuracy,4,29.629629629629626
+Feature fusion,Wrist accelerometer,accuracy,5,16.375545851528393
+Feature fusion,Wrist accelerometer,accuracy,6,6.896551724137923
+Feature fusion,Wrist accelerometer,accuracy,7,49.14529914529915
+Feature fusion,Wrist accelerometer,accuracy,8,26.65148063781322
+Feature fusion,Wrist accelerometer,accuracy,9,11.062906724511933
+Feature fusion,Wrist accelerometer,accuracy,10,22.54464285714286
+Feature fusion,Wrist accelerometer,macro_f1,1,16.923334910182465
+Feature fusion,Wrist accelerometer,macro_f1,2,27.50365581131429
+Feature fusion,Wrist accelerometer,macro_f1,3,18.87753313106448
+Feature fusion,Wrist accelerometer,macro_f1,4,33.38065860372536
+Feature fusion,Wrist accelerometer,macro_f1,5,20.190479937818097
+Feature fusion,Wrist accelerometer,macro_f1,6,10.33446100417008
+Feature fusion,Wrist accelerometer,macro_f1,7,55.76856291677898
+Feature fusion,Wrist accelerometer,macro_f1,8,27.43342005439211
+Feature fusion,Wrist accelerometer,macro_f1,9,10.571324546863014
+Feature fusion,Wrist accelerometer,macro_f1,10,25.96321517112593
+Feature fusion,Accelerometers (all locations),accuracy,1,-1.279317697228144
+Feature fusion,Accelerometers (all locations),accuracy,2,3.361344537815125
+Feature fusion,Accelerometers (all locations),accuracy,3,4.700854700854695
+Feature fusion,Accelerometers (all locations),accuracy,4,3.4858387799564294
+Feature fusion,Accelerometers (all locations),accuracy,5,0.0
+Feature fusion,Accelerometers (all locations),accuracy,6,-15.402298850574713
+Feature fusion,Accelerometers (all locations),accuracy,7,0.0
+Feature fusion,Accelerometers (all locations),accuracy,8,0.0
+Feature fusion,Accelerometers (all locations),accuracy,9,0.2169197396963085
+Feature fusion,Accelerometers (all locations),accuracy,10,0.22321428571429047
+Feature fusion,Accelerometers (all locations),macro_f1,1,-1.2406313148226156
+Feature fusion,Accelerometers (all locations),macro_f1,2,4.343040378826668
+Feature fusion,Accelerometers (all locations),macro_f1,3,4.99425287356321
+Feature fusion,Accelerometers (all locations),macro_f1,4,4.768966258327967
+Feature fusion,Accelerometers (all locations),macro_f1,5,0.0
+Feature fusion,Accelerometers (all locations),macro_f1,6,-13.960779828173454
+Feature fusion,Accelerometers (all locations),macro_f1,7,0.0
+Feature fusion,Accelerometers (all locations),macro_f1,8,-0.008833939778052358
+Feature fusion,Accelerometers (all locations),macro_f1,9,0.1961870470387317
+Feature fusion,Accelerometers (all locations),macro_f1,10,0.23260321767785141
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,1,22.388059701492537
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,2,28.57142857142857
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,3,-5.341880341880345
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,4,-0.6535947712418277
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,5,26.419213973799128
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,6,16.321839080459768
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,7,24.14529914529915
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,8,49.65831435079727
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,9,11.93058568329718
+Feature fusion,Gyroscopes (ankle + wrist),accuracy,10,5.58035714285714
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,1,31.266217928932083
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,2,36.047342606249
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,3,-2.2209195009078253
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,4,6.000374485102844
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,5,31.732518419146384
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,6,24.124079620241957
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,7,31.629568310119748
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,8,50.581453807955114
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,9,18.614043198672046
+Feature fusion,Gyroscopes (ankle + wrist),macro_f1,10,12.328317499942221
+Feature fusion,Decision fusion,accuracy,1,1.0660980810234477
+Feature fusion,Decision fusion,accuracy,2,2.7310924369747913
+Feature fusion,Decision fusion,accuracy,3,2.136752136752129
+Feature fusion,Decision fusion,accuracy,4,-1.525054466230935
+Feature fusion,Decision fusion,accuracy,5,-0.21834061135370675
+Feature fusion,Decision fusion,accuracy,6,-11.03448275862069
+Feature fusion,Decision fusion,accuracy,7,0.42735042735042583
+Feature fusion,Decision fusion,accuracy,8,5.6947608200455635
+Feature fusion,Decision fusion,accuracy,9,0.0
+Feature fusion,Decision fusion,accuracy,10,0.22321428571429047
+Feature fusion,Decision fusion,macro_f1,1,1.025060546629497
+Feature fusion,Decision fusion,macro_f1,2,3.6388105158961626
+Feature fusion,Decision fusion,macro_f1,3,2.111200898330612
+Feature fusion,Decision fusion,macro_f1,4,-1.6444343457571509
+Feature fusion,Decision fusion,macro_f1,5,-0.20352444775378897
+Feature fusion,Decision fusion,macro_f1,6,-9.861819727891163
+Feature fusion,Decision fusion,macro_f1,7,0.9027777777777857
+Feature fusion,Decision fusion,macro_f1,8,7.028244871494305
+Feature fusion,Decision fusion,macro_f1,9,0.0
+Feature fusion,Decision fusion,macro_f1,10,0.20862671465081695
+Decision fusion,Chest accelerometer,accuracy,1,18.7633262260128
+Decision fusion,Chest accelerometer,accuracy,2,14.495798319327724
+Decision fusion,Chest accelerometer,accuracy,3,-5.982905982905972
+Decision fusion,Chest accelerometer,accuracy,4,13.507625272331158
+Decision fusion,Chest accelerometer,accuracy,5,8.296943231441045
+Decision fusion,Chest accelerometer,accuracy,6,9.195402298850574
+Decision fusion,Chest accelerometer,accuracy,7,27.564102564102566
+Decision fusion,Chest accelerometer,accuracy,8,27.10706150341685
+Decision fusion,Chest accelerometer,accuracy,9,10.629067245119305
+Decision fusion,Chest accelerometer,accuracy,10,14.0625
+Decision fusion,Chest accelerometer,macro_f1,1,18.0707110914233
+Decision fusion,Chest accelerometer,macro_f1,2,19.12940862400543
+Decision fusion,Chest accelerometer,macro_f1,3,-7.440543684998757
+Decision fusion,Chest accelerometer,macro_f1,4,15.895928081979227
+Decision fusion,Chest accelerometer,macro_f1,5,8.481694899932412
+Decision fusion,Chest accelerometer,macro_f1,6,10.537226216494854
+Decision fusion,Chest accelerometer,macro_f1,7,29.25990922320345
+Decision fusion,Chest accelerometer,macro_f1,8,24.736531701754416
+Decision fusion,Chest accelerometer,macro_f1,9,12.403349938699993
+Decision fusion,Chest accelerometer,macro_f1,10,15.350052245116363
+Decision fusion,Ankle accelerometer,accuracy,1,19.82942430703625
+Decision fusion,Ankle accelerometer,accuracy,2,3.991596638655459
+Decision fusion,Ankle accelerometer,accuracy,3,-2.350427350427342
+Decision fusion,Ankle accelerometer,accuracy,4,12.85403050108932
+Decision fusion,Ankle accelerometer,accuracy,5,10.917030567685593
+Decision fusion,Ankle accelerometer,accuracy,6,15.63218390804597
+Decision fusion,Ankle accelerometer,accuracy,7,12.82051282051282
+Decision fusion,Ankle accelerometer,accuracy,8,0.9111617312072884
+Decision fusion,Ankle accelerometer,accuracy,9,3.0368763557483747
+Decision fusion,Ankle accelerometer,accuracy,10,27.67857142857142
+Decision fusion,Ankle accelerometer,macro_f1,1,17.485078075678352
+Decision fusion,Ankle accelerometer,macro_f1,2,0.38629865129758967
+Decision fusion,Ankle accelerometer,macro_f1,3,-4.7827273556445675
+Decision fusion,Ankle accelerometer,macro_f1,4,15.830007160795157
+Decision fusion,Ankle accelerometer,macro_f1,5,11.25126414872667
+Decision fusion,Ankle accelerometer,macro_f1,6,18.672300678202614
+Decision fusion,Ankle accelerometer,macro_f1,7,14.45247042439245
+Decision fusion,Ankle accelerometer,macro_f1,8,0.47124714887872843
+Decision fusion,Ankle accelerometer,macro_f1,9,2.9129112195152462
+Decision fusion,Ankle accelerometer,macro_f1,10,26.335016847248326
+Decision fusion,Wrist accelerometer,accuracy,1,17.697228144989342
+Decision fusion,Wrist accelerometer,accuracy,2,22.26890756302521
+Decision fusion,Wrist accelerometer,accuracy,3,15.598290598290598
+Decision fusion,Wrist accelerometer,accuracy,4,31.154684095860564
+Decision fusion,Wrist accelerometer,accuracy,5,16.5938864628821
+Decision fusion,Wrist accelerometer,accuracy,6,17.931034482758612
+Decision fusion,Wrist accelerometer,accuracy,7,48.71794871794872
+Decision fusion,Wrist accelerometer,accuracy,8,20.956719817767656
+Decision fusion,Wrist accelerometer,accuracy,9,11.062906724511933
+Decision fusion,Wrist accelerometer,accuracy,10,22.32142857142857
+Decision fusion,Wrist accelerometer,macro_f1,1,15.898274363552966
+Decision fusion,Wrist accelerometer,macro_f1,2,23.864845295418124
+Decision fusion,Wrist accelerometer,macro_f1,3,16.766332232733873
+Decision fusion,Wrist accelerometer,macro_f1,4,35.025092949482506
+Decision fusion,Wrist accelerometer,macro_f1,5,20.394004385571883
+Decision fusion,Wrist accelerometer,macro_f1,6,20.196280732061243
+Decision fusion,Wrist accelerometer,macro_f1,7,54.8657851390012
+Decision fusion,Wrist accelerometer,macro_f1,8,20.405175182897807
+Decision fusion,Wrist accelerometer,macro_f1,9,10.571324546863014
+Decision fusion,Wrist accelerometer,macro_f1,10,25.754588456475112
+Decision fusion,Accelerometers (all locations),accuracy,1,-2.3454157782515916
+Decision fusion,Accelerometers (all locations),accuracy,2,0.6302521008403339
+Decision fusion,Accelerometers (all locations),accuracy,3,2.564102564102566
+Decision fusion,Accelerometers (all locations),accuracy,4,5.010893246187365
+Decision fusion,Accelerometers (all locations),accuracy,5,0.21834061135370675
+Decision fusion,Accelerometers (all locations),accuracy,6,-4.367816091954024
+Decision fusion,Accelerometers (all locations),accuracy,7,-0.42735042735042583
+Decision fusion,Accelerometers (all locations),accuracy,8,-5.6947608200455635
+Decision fusion,Accelerometers (all locations),accuracy,9,0.2169197396963085
+Decision fusion,Accelerometers (all locations),accuracy,10,0.0
+Decision fusion,Accelerometers (all locations),macro_f1,1,-2.2656918614521127
+Decision fusion,Accelerometers (all locations),macro_f1,2,0.7042298629305055
+Decision fusion,Accelerometers (all locations),macro_f1,3,2.883051975232598
+Decision fusion,Accelerometers (all locations),macro_f1,4,6.413400604085117
+Decision fusion,Accelerometers (all locations),macro_f1,5,0.20352444775378897
+Decision fusion,Accelerometers (all locations),macro_f1,6,-4.098960100282289
+Decision fusion,Accelerometers (all locations),macro_f1,7,-0.9027777777777857
+Decision fusion,Accelerometers (all locations),macro_f1,8,-7.037078811272357
+Decision fusion,Accelerometers (all locations),macro_f1,9,0.1961870470387317
+Decision fusion,Accelerometers (all locations),macro_f1,10,0.023976503027034468
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,1,21.32196162046909
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,2,25.84033613445378
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,3,-7.478632478632474
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,4,0.8714596949891074
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,5,26.637554585152834
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,6,27.356321839080454
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,7,23.717948717948723
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,8,43.9635535307517
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,9,11.93058568329718
+Decision fusion,Gyroscopes (ankle + wrist),accuracy,10,5.357142857142849
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,1,30.241157382302585
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,2,32.408532090352836
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,3,-4.332120399238438
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,4,7.644808830859995
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,5,31.936042866900173
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,6,33.98589934813312
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,7,30.726790532341962
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,8,43.553208936460805
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,9,18.614043198672046
+Decision fusion,Gyroscopes (ankle + wrist),macro_f1,10,12.119690785291404
+Decision fusion,Feature fusion,accuracy,1,-1.0660980810234477
+Decision fusion,Feature fusion,accuracy,2,-2.7310924369747913
+Decision fusion,Feature fusion,accuracy,3,-2.136752136752129
+Decision fusion,Feature fusion,accuracy,4,1.525054466230935
+Decision fusion,Feature fusion,accuracy,5,0.21834061135370675
+Decision fusion,Feature fusion,accuracy,6,11.03448275862069
+Decision fusion,Feature fusion,accuracy,7,-0.42735042735042583
+Decision fusion,Feature fusion,accuracy,8,-5.6947608200455635
+Decision fusion,Feature fusion,accuracy,9,0.0
+Decision fusion,Feature fusion,accuracy,10,-0.22321428571429047
+Decision fusion,Feature fusion,macro_f1,1,-1.025060546629497
+Decision fusion,Feature fusion,macro_f1,2,-3.6388105158961626
+Decision fusion,Feature fusion,macro_f1,3,-2.111200898330612
+Decision fusion,Feature fusion,macro_f1,4,1.6444343457571509
+Decision fusion,Feature fusion,macro_f1,5,0.20352444775378897
+Decision fusion,Feature fusion,macro_f1,6,9.861819727891163
+Decision fusion,Feature fusion,macro_f1,7,-0.9027777777777857
+Decision fusion,Feature fusion,macro_f1,8,-7.028244871494305
+Decision fusion,Feature fusion,macro_f1,9,0.0
+Decision fusion,Feature fusion,macro_f1,10,-0.20862671465081695

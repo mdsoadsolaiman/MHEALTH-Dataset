@@ -1,0 +1,1009 @@
+model,true_label,predicted_label,count,row_fraction
+Chest accelerometer,1,1,323,0.7801932367149759
+Chest accelerometer,1,2,88,0.21256038647342995
+Chest accelerometer,1,3,0,0.0
+Chest accelerometer,1,4,0,0.0
+Chest accelerometer,1,5,0,0.0
+Chest accelerometer,1,6,0,0.0
+Chest accelerometer,1,7,3,0.007246376811594203
+Chest accelerometer,1,8,0,0.0
+Chest accelerometer,1,9,0,0.0
+Chest accelerometer,1,10,0,0.0
+Chest accelerometer,1,11,0,0.0
+Chest accelerometer,1,12,0,0.0
+Chest accelerometer,2,1,260,0.6265060240963856
+Chest accelerometer,2,2,155,0.37349397590361444
+Chest accelerometer,2,3,0,0.0
+Chest accelerometer,2,4,0,0.0
+Chest accelerometer,2,5,0,0.0
+Chest accelerometer,2,6,0,0.0
+Chest accelerometer,2,7,0,0.0
+Chest accelerometer,2,8,0,0.0
+Chest accelerometer,2,9,0,0.0
+Chest accelerometer,2,10,0,0.0
+Chest accelerometer,2,11,0,0.0
+Chest accelerometer,2,12,0,0.0
+Chest accelerometer,3,1,0,0.0
+Chest accelerometer,3,2,0,0.0
+Chest accelerometer,3,3,407,1.0
+Chest accelerometer,3,4,0,0.0
+Chest accelerometer,3,5,0,0.0
+Chest accelerometer,3,6,0,0.0
+Chest accelerometer,3,7,0,0.0
+Chest accelerometer,3,8,0,0.0
+Chest accelerometer,3,9,0,0.0
+Chest accelerometer,3,10,0,0.0
+Chest accelerometer,3,11,0,0.0
+Chest accelerometer,3,12,0,0.0
+Chest accelerometer,4,1,0,0.0
+Chest accelerometer,4,2,0,0.0
+Chest accelerometer,4,3,0,0.0
+Chest accelerometer,4,4,321,0.7716346153846154
+Chest accelerometer,4,5,95,0.2283653846153846
+Chest accelerometer,4,6,0,0.0
+Chest accelerometer,4,7,0,0.0
+Chest accelerometer,4,8,0,0.0
+Chest accelerometer,4,9,0,0.0
+Chest accelerometer,4,10,0,0.0
+Chest accelerometer,4,11,0,0.0
+Chest accelerometer,4,12,0,0.0
+Chest accelerometer,5,1,0,0.0
+Chest accelerometer,5,2,0,0.0
+Chest accelerometer,5,3,0,0.0
+Chest accelerometer,5,4,68,0.16113744075829384
+Chest accelerometer,5,5,347,0.8222748815165877
+Chest accelerometer,5,6,0,0.0
+Chest accelerometer,5,7,0,0.0
+Chest accelerometer,5,8,7,0.016587677725118485
+Chest accelerometer,5,9,0,0.0
+Chest accelerometer,5,10,0,0.0
+Chest accelerometer,5,11,0,0.0
+Chest accelerometer,5,12,0,0.0
+Chest accelerometer,6,1,0,0.0
+Chest accelerometer,6,2,0,0.0
+Chest accelerometer,6,3,0,0.0
+Chest accelerometer,6,4,0,0.0
+Chest accelerometer,6,5,0,0.0
+Chest accelerometer,6,6,378,0.9767441860465116
+Chest accelerometer,6,7,0,0.0
+Chest accelerometer,6,8,9,0.023255813953488372
+Chest accelerometer,6,9,0,0.0
+Chest accelerometer,6,10,0,0.0
+Chest accelerometer,6,11,0,0.0
+Chest accelerometer,6,12,0,0.0
+Chest accelerometer,7,1,1,0.0025380710659898475
+Chest accelerometer,7,2,1,0.0025380710659898475
+Chest accelerometer,7,3,0,0.0
+Chest accelerometer,7,4,0,0.0
+Chest accelerometer,7,5,0,0.0
+Chest accelerometer,7,6,0,0.0
+Chest accelerometer,7,7,391,0.9923857868020305
+Chest accelerometer,7,8,1,0.0025380710659898475
+Chest accelerometer,7,9,0,0.0
+Chest accelerometer,7,10,0,0.0
+Chest accelerometer,7,11,0,0.0
+Chest accelerometer,7,12,0,0.0
+Chest accelerometer,8,1,0,0.0
+Chest accelerometer,8,2,0,0.0
+Chest accelerometer,8,3,0,0.0
+Chest accelerometer,8,4,0,0.0
+Chest accelerometer,8,5,56,0.14249363867684478
+Chest accelerometer,8,6,13,0.03307888040712468
+Chest accelerometer,8,7,0,0.0
+Chest accelerometer,8,8,299,0.7608142493638677
+Chest accelerometer,8,9,25,0.06361323155216285
+Chest accelerometer,8,10,0,0.0
+Chest accelerometer,8,11,0,0.0
+Chest accelerometer,8,12,0,0.0
+Chest accelerometer,9,1,0,0.0
+Chest accelerometer,9,2,0,0.0
+Chest accelerometer,9,3,0,0.0
+Chest accelerometer,9,4,0,0.0
+Chest accelerometer,9,5,2,0.0049261083743842365
+Chest accelerometer,9,6,1,0.0024630541871921183
+Chest accelerometer,9,7,1,0.0024630541871921183
+Chest accelerometer,9,8,27,0.0665024630541872
+Chest accelerometer,9,9,375,0.9236453201970444
+Chest accelerometer,9,10,0,0.0
+Chest accelerometer,9,11,0,0.0
+Chest accelerometer,9,12,0,0.0
+Chest accelerometer,10,1,0,0.0
+Chest accelerometer,10,2,0,0.0
+Chest accelerometer,10,3,0,0.0
+Chest accelerometer,10,4,0,0.0
+Chest accelerometer,10,5,0,0.0
+Chest accelerometer,10,6,0,0.0
+Chest accelerometer,10,7,0,0.0
+Chest accelerometer,10,8,0,0.0
+Chest accelerometer,10,9,0,0.0
+Chest accelerometer,10,10,358,0.8605769230769231
+Chest accelerometer,10,11,54,0.12980769230769232
+Chest accelerometer,10,12,4,0.009615384615384616
+Chest accelerometer,11,1,0,0.0
+Chest accelerometer,11,2,0,0.0
+Chest accelerometer,11,3,0,0.0
+Chest accelerometer,11,4,0,0.0
+Chest accelerometer,11,5,0,0.0
+Chest accelerometer,11,6,0,0.0
+Chest accelerometer,11,7,0,0.0
+Chest accelerometer,11,8,0,0.0
+Chest accelerometer,11,9,0,0.0
+Chest accelerometer,11,10,69,0.17206982543640897
+Chest accelerometer,11,11,332,0.827930174563591
+Chest accelerometer,11,12,0,0.0
+Chest accelerometer,12,1,0,0.0
+Chest accelerometer,12,2,0,0.0
+Chest accelerometer,12,3,0,0.0
+Chest accelerometer,12,4,0,0.0
+Chest accelerometer,12,5,0,0.0
+Chest accelerometer,12,6,0,0.0
+Chest accelerometer,12,7,0,0.0
+Chest accelerometer,12,8,0,0.0
+Chest accelerometer,12,9,0,0.0
+Chest accelerometer,12,10,7,0.06363636363636363
+Chest accelerometer,12,11,0,0.0
+Chest accelerometer,12,12,103,0.9363636363636364
+Ankle accelerometer,1,1,290,0.7004830917874396
+Ankle accelerometer,1,2,78,0.18840579710144928
+Ankle accelerometer,1,3,0,0.0
+Ankle accelerometer,1,4,0,0.0
+Ankle accelerometer,1,5,0,0.0
+Ankle accelerometer,1,6,3,0.007246376811594203
+Ankle accelerometer,1,7,43,0.10386473429951691
+Ankle accelerometer,1,8,0,0.0
+Ankle accelerometer,1,9,0,0.0
+Ankle accelerometer,1,10,0,0.0
+Ankle accelerometer,1,11,0,0.0
+Ankle accelerometer,1,12,0,0.0
+Ankle accelerometer,2,1,200,0.4819277108433735
+Ankle accelerometer,2,2,215,0.5180722891566265
+Ankle accelerometer,2,3,0,0.0
+Ankle accelerometer,2,4,0,0.0
+Ankle accelerometer,2,5,0,0.0
+Ankle accelerometer,2,6,0,0.0
+Ankle accelerometer,2,7,0,0.0
+Ankle accelerometer,2,8,0,0.0
+Ankle accelerometer,2,9,0,0.0
+Ankle accelerometer,2,10,0,0.0
+Ankle accelerometer,2,11,0,0.0
+Ankle accelerometer,2,12,0,0.0
+Ankle accelerometer,3,1,0,0.0
+Ankle accelerometer,3,2,83,0.20393120393120392
+Ankle accelerometer,3,3,324,0.7960687960687961
+Ankle accelerometer,3,4,0,0.0
+Ankle accelerometer,3,5,0,0.0
+Ankle accelerometer,3,6,0,0.0
+Ankle accelerometer,3,7,0,0.0
+Ankle accelerometer,3,8,0,0.0
+Ankle accelerometer,3,9,0,0.0
+Ankle accelerometer,3,10,0,0.0
+Ankle accelerometer,3,11,0,0.0
+Ankle accelerometer,3,12,0,0.0
+Ankle accelerometer,4,1,0,0.0
+Ankle accelerometer,4,2,0,0.0
+Ankle accelerometer,4,3,0,0.0
+Ankle accelerometer,4,4,416,1.0
+Ankle accelerometer,4,5,0,0.0
+Ankle accelerometer,4,6,0,0.0
+Ankle accelerometer,4,7,0,0.0
+Ankle accelerometer,4,8,0,0.0
+Ankle accelerometer,4,9,0,0.0
+Ankle accelerometer,4,10,0,0.0
+Ankle accelerometer,4,11,0,0.0
+Ankle accelerometer,4,12,0,0.0
+Ankle accelerometer,5,1,0,0.0
+Ankle accelerometer,5,2,0,0.0
+Ankle accelerometer,5,3,0,0.0
+Ankle accelerometer,5,4,1,0.002369668246445498
+Ankle accelerometer,5,5,404,0.957345971563981
+Ankle accelerometer,5,6,0,0.0
+Ankle accelerometer,5,7,0,0.0
+Ankle accelerometer,5,8,0,0.0
+Ankle accelerometer,5,9,17,0.04028436018957346
+Ankle accelerometer,5,10,0,0.0
+Ankle accelerometer,5,11,0,0.0
+Ankle accelerometer,5,12,0,0.0
+Ankle accelerometer,6,1,2,0.00516795865633075
+Ankle accelerometer,6,2,0,0.0
+Ankle accelerometer,6,3,0,0.0
+Ankle accelerometer,6,4,0,0.0
+Ankle accelerometer,6,5,1,0.002583979328165375
+Ankle accelerometer,6,6,384,0.9922480620155039
+Ankle accelerometer,6,7,0,0.0
+Ankle accelerometer,6,8,0,0.0
+Ankle accelerometer,6,9,0,0.0
+Ankle accelerometer,6,10,0,0.0
+Ankle accelerometer,6,11,0,0.0
+Ankle accelerometer,6,12,0,0.0
+Ankle accelerometer,7,1,41,0.10406091370558376
+Ankle accelerometer,7,2,3,0.007614213197969543
+Ankle accelerometer,7,3,0,0.0
+Ankle accelerometer,7,4,0,0.0
+Ankle accelerometer,7,5,0,0.0
+Ankle accelerometer,7,6,0,0.0
+Ankle accelerometer,7,7,350,0.8883248730964467
+Ankle accelerometer,7,8,0,0.0
+Ankle accelerometer,7,9,0,0.0
+Ankle accelerometer,7,10,0,0.0
+Ankle accelerometer,7,11,0,0.0
+Ankle accelerometer,7,12,0,0.0
+Ankle accelerometer,8,1,0,0.0
+Ankle accelerometer,8,2,0,0.0
+Ankle accelerometer,8,3,0,0.0
+Ankle accelerometer,8,4,0,0.0
+Ankle accelerometer,8,5,1,0.002544529262086514
+Ankle accelerometer,8,6,4,0.010178117048346057
+Ankle accelerometer,8,7,0,0.0
+Ankle accelerometer,8,8,376,0.9567430025445293
+Ankle accelerometer,8,9,12,0.030534351145038167
+Ankle accelerometer,8,10,0,0.0
+Ankle accelerometer,8,11,0,0.0
+Ankle accelerometer,8,12,0,0.0
+Ankle accelerometer,9,1,0,0.0
+Ankle accelerometer,9,2,0,0.0
+Ankle accelerometer,9,3,0,0.0
+Ankle accelerometer,9,4,0,0.0
+Ankle accelerometer,9,5,58,0.14285714285714285
+Ankle accelerometer,9,6,0,0.0
+Ankle accelerometer,9,7,0,0.0
+Ankle accelerometer,9,8,31,0.07635467980295567
+Ankle accelerometer,9,9,317,0.7807881773399015
+Ankle accelerometer,9,10,0,0.0
+Ankle accelerometer,9,11,0,0.0
+Ankle accelerometer,9,12,0,0.0
+Ankle accelerometer,10,1,0,0.0
+Ankle accelerometer,10,2,0,0.0
+Ankle accelerometer,10,3,0,0.0
+Ankle accelerometer,10,4,0,0.0
+Ankle accelerometer,10,5,0,0.0
+Ankle accelerometer,10,6,0,0.0
+Ankle accelerometer,10,7,0,0.0
+Ankle accelerometer,10,8,0,0.0
+Ankle accelerometer,10,9,0,0.0
+Ankle accelerometer,10,10,397,0.9543269230769231
+Ankle accelerometer,10,11,19,0.04567307692307692
+Ankle accelerometer,10,12,0,0.0
+Ankle accelerometer,11,1,0,0.0
+Ankle accelerometer,11,2,0,0.0
+Ankle accelerometer,11,3,0,0.0
+Ankle accelerometer,11,4,0,0.0
+Ankle accelerometer,11,5,0,0.0
+Ankle accelerometer,11,6,0,0.0
+Ankle accelerometer,11,7,0,0.0
+Ankle accelerometer,11,8,0,0.0
+Ankle accelerometer,11,9,0,0.0
+Ankle accelerometer,11,10,46,0.11471321695760599
+Ankle accelerometer,11,11,355,0.885286783042394
+Ankle accelerometer,11,12,0,0.0
+Ankle accelerometer,12,1,0,0.0
+Ankle accelerometer,12,2,0,0.0
+Ankle accelerometer,12,3,0,0.0
+Ankle accelerometer,12,4,0,0.0
+Ankle accelerometer,12,5,0,0.0
+Ankle accelerometer,12,6,0,0.0
+Ankle accelerometer,12,7,0,0.0
+Ankle accelerometer,12,8,0,0.0
+Ankle accelerometer,12,9,0,0.0
+Ankle accelerometer,12,10,0,0.0
+Ankle accelerometer,12,11,0,0.0
+Ankle accelerometer,12,12,110,1.0
+Wrist accelerometer,1,1,384,0.927536231884058
+Wrist accelerometer,1,2,30,0.07246376811594203
+Wrist accelerometer,1,3,0,0.0
+Wrist accelerometer,1,4,0,0.0
+Wrist accelerometer,1,5,0,0.0
+Wrist accelerometer,1,6,0,0.0
+Wrist accelerometer,1,7,0,0.0
+Wrist accelerometer,1,8,0,0.0
+Wrist accelerometer,1,9,0,0.0
+Wrist accelerometer,1,10,0,0.0
+Wrist accelerometer,1,11,0,0.0
+Wrist accelerometer,1,12,0,0.0
+Wrist accelerometer,2,1,41,0.09879518072289156
+Wrist accelerometer,2,2,324,0.7807228915662651
+Wrist accelerometer,2,3,50,0.12048192771084337
+Wrist accelerometer,2,4,0,0.0
+Wrist accelerometer,2,5,0,0.0
+Wrist accelerometer,2,6,0,0.0
+Wrist accelerometer,2,7,0,0.0
+Wrist accelerometer,2,8,0,0.0
+Wrist accelerometer,2,9,0,0.0
+Wrist accelerometer,2,10,0,0.0
+Wrist accelerometer,2,11,0,0.0
+Wrist accelerometer,2,12,0,0.0
+Wrist accelerometer,3,1,0,0.0
+Wrist accelerometer,3,2,41,0.10073710073710074
+Wrist accelerometer,3,3,366,0.8992628992628993
+Wrist accelerometer,3,4,0,0.0
+Wrist accelerometer,3,5,0,0.0
+Wrist accelerometer,3,6,0,0.0
+Wrist accelerometer,3,7,0,0.0
+Wrist accelerometer,3,8,0,0.0
+Wrist accelerometer,3,9,0,0.0
+Wrist accelerometer,3,10,0,0.0
+Wrist accelerometer,3,11,0,0.0
+Wrist accelerometer,3,12,0,0.0
+Wrist accelerometer,4,1,0,0.0
+Wrist accelerometer,4,2,0,0.0
+Wrist accelerometer,4,3,0,0.0
+Wrist accelerometer,4,4,185,0.44471153846153844
+Wrist accelerometer,4,5,151,0.3629807692307692
+Wrist accelerometer,4,6,31,0.07451923076923077
+Wrist accelerometer,4,7,0,0.0
+Wrist accelerometer,4,8,49,0.11778846153846154
+Wrist accelerometer,4,9,0,0.0
+Wrist accelerometer,4,10,0,0.0
+Wrist accelerometer,4,11,0,0.0
+Wrist accelerometer,4,12,0,0.0
+Wrist accelerometer,5,1,0,0.0
+Wrist accelerometer,5,2,0,0.0
+Wrist accelerometer,5,3,0,0.0
+Wrist accelerometer,5,4,43,0.1018957345971564
+Wrist accelerometer,5,5,254,0.6018957345971564
+Wrist accelerometer,5,6,22,0.052132701421800945
+Wrist accelerometer,5,7,4,0.009478672985781991
+Wrist accelerometer,5,8,99,0.23459715639810427
+Wrist accelerometer,5,9,0,0.0
+Wrist accelerometer,5,10,0,0.0
+Wrist accelerometer,5,11,0,0.0
+Wrist accelerometer,5,12,0,0.0
+Wrist accelerometer,6,1,0,0.0
+Wrist accelerometer,6,2,0,0.0
+Wrist accelerometer,6,3,0,0.0
+Wrist accelerometer,6,4,26,0.06718346253229975
+Wrist accelerometer,6,5,125,0.32299741602067183
+Wrist accelerometer,6,6,153,0.3953488372093023
+Wrist accelerometer,6,7,1,0.002583979328165375
+Wrist accelerometer,6,8,82,0.21188630490956073
+Wrist accelerometer,6,9,0,0.0
+Wrist accelerometer,6,10,0,0.0
+Wrist accelerometer,6,11,0,0.0
+Wrist accelerometer,6,12,0,0.0
+Wrist accelerometer,7,1,0,0.0
+Wrist accelerometer,7,2,0,0.0
+Wrist accelerometer,7,3,0,0.0
+Wrist accelerometer,7,4,0,0.0
+Wrist accelerometer,7,5,0,0.0
+Wrist accelerometer,7,6,0,0.0
+Wrist accelerometer,7,7,380,0.9644670050761421
+Wrist accelerometer,7,8,0,0.0
+Wrist accelerometer,7,9,2,0.005076142131979695
+Wrist accelerometer,7,10,3,0.007614213197969543
+Wrist accelerometer,7,11,0,0.0
+Wrist accelerometer,7,12,9,0.02284263959390863
+Wrist accelerometer,8,1,0,0.0
+Wrist accelerometer,8,2,0,0.0
+Wrist accelerometer,8,3,0,0.0
+Wrist accelerometer,8,4,17,0.043256997455470736
+Wrist accelerometer,8,5,86,0.21882951653944022
+Wrist accelerometer,8,6,56,0.14249363867684478
+Wrist accelerometer,8,7,0,0.0
+Wrist accelerometer,8,8,232,0.5903307888040712
+Wrist accelerometer,8,9,2,0.005089058524173028
+Wrist accelerometer,8,10,0,0.0
+Wrist accelerometer,8,11,0,0.0
+Wrist accelerometer,8,12,0,0.0
+Wrist accelerometer,9,1,0,0.0
+Wrist accelerometer,9,2,0,0.0
+Wrist accelerometer,9,3,0,0.0
+Wrist accelerometer,9,4,0,0.0
+Wrist accelerometer,9,5,0,0.0
+Wrist accelerometer,9,6,0,0.0
+Wrist accelerometer,9,7,0,0.0
+Wrist accelerometer,9,8,0,0.0
+Wrist accelerometer,9,9,406,1.0
+Wrist accelerometer,9,10,0,0.0
+Wrist accelerometer,9,11,0,0.0
+Wrist accelerometer,9,12,0,0.0
+Wrist accelerometer,10,1,0,0.0
+Wrist accelerometer,10,2,0,0.0
+Wrist accelerometer,10,3,0,0.0
+Wrist accelerometer,10,4,0,0.0
+Wrist accelerometer,10,5,0,0.0
+Wrist accelerometer,10,6,0,0.0
+Wrist accelerometer,10,7,0,0.0
+Wrist accelerometer,10,8,0,0.0
+Wrist accelerometer,10,9,0,0.0
+Wrist accelerometer,10,10,312,0.75
+Wrist accelerometer,10,11,97,0.23317307692307693
+Wrist accelerometer,10,12,7,0.016826923076923076
+Wrist accelerometer,11,1,0,0.0
+Wrist accelerometer,11,2,0,0.0
+Wrist accelerometer,11,3,0,0.0
+Wrist accelerometer,11,4,0,0.0
+Wrist accelerometer,11,5,0,0.0
+Wrist accelerometer,11,6,0,0.0
+Wrist accelerometer,11,7,0,0.0
+Wrist accelerometer,11,8,0,0.0
+Wrist accelerometer,11,9,0,0.0
+Wrist accelerometer,11,10,78,0.19451371571072318
+Wrist accelerometer,11,11,320,0.7980049875311721
+Wrist accelerometer,11,12,3,0.007481296758104738
+Wrist accelerometer,12,1,0,0.0
+Wrist accelerometer,12,2,0,0.0
+Wrist accelerometer,12,3,0,0.0
+Wrist accelerometer,12,4,0,0.0
+Wrist accelerometer,12,5,0,0.0
+Wrist accelerometer,12,6,0,0.0
+Wrist accelerometer,12,7,13,0.11818181818181818
+Wrist accelerometer,12,8,0,0.0
+Wrist accelerometer,12,9,0,0.0
+Wrist accelerometer,12,10,18,0.16363636363636364
+Wrist accelerometer,12,11,7,0.06363636363636363
+Wrist accelerometer,12,12,72,0.6545454545454545
+Accelerometers (all locations),1,1,414,1.0
+Accelerometers (all locations),1,2,0,0.0
+Accelerometers (all locations),1,3,0,0.0
+Accelerometers (all locations),1,4,0,0.0
+Accelerometers (all locations),1,5,0,0.0
+Accelerometers (all locations),1,6,0,0.0
+Accelerometers (all locations),1,7,0,0.0
+Accelerometers (all locations),1,8,0,0.0
+Accelerometers (all locations),1,9,0,0.0
+Accelerometers (all locations),1,10,0,0.0
+Accelerometers (all locations),1,11,0,0.0
+Accelerometers (all locations),1,12,0,0.0
+Accelerometers (all locations),2,1,41,0.09879518072289156
+Accelerometers (all locations),2,2,374,0.9012048192771084
+Accelerometers (all locations),2,3,0,0.0
+Accelerometers (all locations),2,4,0,0.0
+Accelerometers (all locations),2,5,0,0.0
+Accelerometers (all locations),2,6,0,0.0
+Accelerometers (all locations),2,7,0,0.0
+Accelerometers (all locations),2,8,0,0.0
+Accelerometers (all locations),2,9,0,0.0
+Accelerometers (all locations),2,10,0,0.0
+Accelerometers (all locations),2,11,0,0.0
+Accelerometers (all locations),2,12,0,0.0
+Accelerometers (all locations),3,1,0,0.0
+Accelerometers (all locations),3,2,0,0.0
+Accelerometers (all locations),3,3,407,1.0
+Accelerometers (all locations),3,4,0,0.0
+Accelerometers (all locations),3,5,0,0.0
+Accelerometers (all locations),3,6,0,0.0
+Accelerometers (all locations),3,7,0,0.0
+Accelerometers (all locations),3,8,0,0.0
+Accelerometers (all locations),3,9,0,0.0
+Accelerometers (all locations),3,10,0,0.0
+Accelerometers (all locations),3,11,0,0.0
+Accelerometers (all locations),3,12,0,0.0
+Accelerometers (all locations),4,1,0,0.0
+Accelerometers (all locations),4,2,0,0.0
+Accelerometers (all locations),4,3,0,0.0
+Accelerometers (all locations),4,4,416,1.0
+Accelerometers (all locations),4,5,0,0.0
+Accelerometers (all locations),4,6,0,0.0
+Accelerometers (all locations),4,7,0,0.0
+Accelerometers (all locations),4,8,0,0.0
+Accelerometers (all locations),4,9,0,0.0
+Accelerometers (all locations),4,10,0,0.0
+Accelerometers (all locations),4,11,0,0.0
+Accelerometers (all locations),4,12,0,0.0
+Accelerometers (all locations),5,1,0,0.0
+Accelerometers (all locations),5,2,0,0.0
+Accelerometers (all locations),5,3,0,0.0
+Accelerometers (all locations),5,4,1,0.002369668246445498
+Accelerometers (all locations),5,5,421,0.9976303317535545
+Accelerometers (all locations),5,6,0,0.0
+Accelerometers (all locations),5,7,0,0.0
+Accelerometers (all locations),5,8,0,0.0
+Accelerometers (all locations),5,9,0,0.0
+Accelerometers (all locations),5,10,0,0.0
+Accelerometers (all locations),5,11,0,0.0
+Accelerometers (all locations),5,12,0,0.0
+Accelerometers (all locations),6,1,0,0.0
+Accelerometers (all locations),6,2,0,0.0
+Accelerometers (all locations),6,3,0,0.0
+Accelerometers (all locations),6,4,0,0.0
+Accelerometers (all locations),6,5,0,0.0
+Accelerometers (all locations),6,6,387,1.0
+Accelerometers (all locations),6,7,0,0.0
+Accelerometers (all locations),6,8,0,0.0
+Accelerometers (all locations),6,9,0,0.0
+Accelerometers (all locations),6,10,0,0.0
+Accelerometers (all locations),6,11,0,0.0
+Accelerometers (all locations),6,12,0,0.0
+Accelerometers (all locations),7,1,0,0.0
+Accelerometers (all locations),7,2,0,0.0
+Accelerometers (all locations),7,3,0,0.0
+Accelerometers (all locations),7,4,0,0.0
+Accelerometers (all locations),7,5,0,0.0
+Accelerometers (all locations),7,6,0,0.0
+Accelerometers (all locations),7,7,394,1.0
+Accelerometers (all locations),7,8,0,0.0
+Accelerometers (all locations),7,9,0,0.0
+Accelerometers (all locations),7,10,0,0.0
+Accelerometers (all locations),7,11,0,0.0
+Accelerometers (all locations),7,12,0,0.0
+Accelerometers (all locations),8,1,0,0.0
+Accelerometers (all locations),8,2,0,0.0
+Accelerometers (all locations),8,3,0,0.0
+Accelerometers (all locations),8,4,0,0.0
+Accelerometers (all locations),8,5,5,0.01272264631043257
+Accelerometers (all locations),8,6,1,0.002544529262086514
+Accelerometers (all locations),8,7,0,0.0
+Accelerometers (all locations),8,8,386,0.9821882951653944
+Accelerometers (all locations),8,9,1,0.002544529262086514
+Accelerometers (all locations),8,10,0,0.0
+Accelerometers (all locations),8,11,0,0.0
+Accelerometers (all locations),8,12,0,0.0
+Accelerometers (all locations),9,1,0,0.0
+Accelerometers (all locations),9,2,0,0.0
+Accelerometers (all locations),9,3,0,0.0
+Accelerometers (all locations),9,4,0,0.0
+Accelerometers (all locations),9,5,0,0.0
+Accelerometers (all locations),9,6,0,0.0
+Accelerometers (all locations),9,7,0,0.0
+Accelerometers (all locations),9,8,0,0.0
+Accelerometers (all locations),9,9,406,1.0
+Accelerometers (all locations),9,10,0,0.0
+Accelerometers (all locations),9,11,0,0.0
+Accelerometers (all locations),9,12,0,0.0
+Accelerometers (all locations),10,1,0,0.0
+Accelerometers (all locations),10,2,0,0.0
+Accelerometers (all locations),10,3,0,0.0
+Accelerometers (all locations),10,4,0,0.0
+Accelerometers (all locations),10,5,0,0.0
+Accelerometers (all locations),10,6,0,0.0
+Accelerometers (all locations),10,7,0,0.0
+Accelerometers (all locations),10,8,0,0.0
+Accelerometers (all locations),10,9,0,0.0
+Accelerometers (all locations),10,10,392,0.9423076923076923
+Accelerometers (all locations),10,11,24,0.057692307692307696
+Accelerometers (all locations),10,12,0,0.0
+Accelerometers (all locations),11,1,0,0.0
+Accelerometers (all locations),11,2,0,0.0
+Accelerometers (all locations),11,3,0,0.0
+Accelerometers (all locations),11,4,0,0.0
+Accelerometers (all locations),11,5,0,0.0
+Accelerometers (all locations),11,6,0,0.0
+Accelerometers (all locations),11,7,0,0.0
+Accelerometers (all locations),11,8,0,0.0
+Accelerometers (all locations),11,9,0,0.0
+Accelerometers (all locations),11,10,69,0.17206982543640897
+Accelerometers (all locations),11,11,332,0.827930174563591
+Accelerometers (all locations),11,12,0,0.0
+Accelerometers (all locations),12,1,0,0.0
+Accelerometers (all locations),12,2,0,0.0
+Accelerometers (all locations),12,3,0,0.0
+Accelerometers (all locations),12,4,0,0.0
+Accelerometers (all locations),12,5,0,0.0
+Accelerometers (all locations),12,6,0,0.0
+Accelerometers (all locations),12,7,0,0.0
+Accelerometers (all locations),12,8,0,0.0
+Accelerometers (all locations),12,9,0,0.0
+Accelerometers (all locations),12,10,4,0.03636363636363636
+Accelerometers (all locations),12,11,0,0.0
+Accelerometers (all locations),12,12,106,0.9636363636363636
+Gyroscopes (ankle + wrist),1,1,292,0.7053140096618358
+Gyroscopes (ankle + wrist),1,2,84,0.2028985507246377
+Gyroscopes (ankle + wrist),1,3,36,0.08695652173913043
+Gyroscopes (ankle + wrist),1,4,0,0.0
+Gyroscopes (ankle + wrist),1,5,0,0.0
+Gyroscopes (ankle + wrist),1,6,2,0.004830917874396135
+Gyroscopes (ankle + wrist),1,7,0,0.0
+Gyroscopes (ankle + wrist),1,8,0,0.0
+Gyroscopes (ankle + wrist),1,9,0,0.0
+Gyroscopes (ankle + wrist),1,10,0,0.0
+Gyroscopes (ankle + wrist),1,11,0,0.0
+Gyroscopes (ankle + wrist),1,12,0,0.0
+Gyroscopes (ankle + wrist),2,1,84,0.20240963855421687
+Gyroscopes (ankle + wrist),2,2,286,0.689156626506024
+Gyroscopes (ankle + wrist),2,3,45,0.10843373493975904
+Gyroscopes (ankle + wrist),2,4,0,0.0
+Gyroscopes (ankle + wrist),2,5,0,0.0
+Gyroscopes (ankle + wrist),2,6,0,0.0
+Gyroscopes (ankle + wrist),2,7,0,0.0
+Gyroscopes (ankle + wrist),2,8,0,0.0
+Gyroscopes (ankle + wrist),2,9,0,0.0
+Gyroscopes (ankle + wrist),2,10,0,0.0
+Gyroscopes (ankle + wrist),2,11,0,0.0
+Gyroscopes (ankle + wrist),2,12,0,0.0
+Gyroscopes (ankle + wrist),3,1,0,0.0
+Gyroscopes (ankle + wrist),3,2,79,0.1941031941031941
+Gyroscopes (ankle + wrist),3,3,328,0.8058968058968059
+Gyroscopes (ankle + wrist),3,4,0,0.0
+Gyroscopes (ankle + wrist),3,5,0,0.0
+Gyroscopes (ankle + wrist),3,6,0,0.0
+Gyroscopes (ankle + wrist),3,7,0,0.0
+Gyroscopes (ankle + wrist),3,8,0,0.0
+Gyroscopes (ankle + wrist),3,9,0,0.0
+Gyroscopes (ankle + wrist),3,10,0,0.0
+Gyroscopes (ankle + wrist),3,11,0,0.0
+Gyroscopes (ankle + wrist),3,12,0,0.0
+Gyroscopes (ankle + wrist),4,1,0,0.0
+Gyroscopes (ankle + wrist),4,2,0,0.0
+Gyroscopes (ankle + wrist),4,3,0,0.0
+Gyroscopes (ankle + wrist),4,4,342,0.8221153846153846
+Gyroscopes (ankle + wrist),4,5,50,0.1201923076923077
+Gyroscopes (ankle + wrist),4,6,0,0.0
+Gyroscopes (ankle + wrist),4,7,0,0.0
+Gyroscopes (ankle + wrist),4,8,24,0.057692307692307696
+Gyroscopes (ankle + wrist),4,9,0,0.0
+Gyroscopes (ankle + wrist),4,10,0,0.0
+Gyroscopes (ankle + wrist),4,11,0,0.0
+Gyroscopes (ankle + wrist),4,12,0,0.0
+Gyroscopes (ankle + wrist),5,1,0,0.0
+Gyroscopes (ankle + wrist),5,2,0,0.0
+Gyroscopes (ankle + wrist),5,3,0,0.0
+Gyroscopes (ankle + wrist),5,4,6,0.014218009478672985
+Gyroscopes (ankle + wrist),5,5,412,0.976303317535545
+Gyroscopes (ankle + wrist),5,6,0,0.0
+Gyroscopes (ankle + wrist),5,7,0,0.0
+Gyroscopes (ankle + wrist),5,8,2,0.004739336492890996
+Gyroscopes (ankle + wrist),5,9,1,0.002369668246445498
+Gyroscopes (ankle + wrist),5,10,0,0.0
+Gyroscopes (ankle + wrist),5,11,0,0.0
+Gyroscopes (ankle + wrist),5,12,1,0.002369668246445498
+Gyroscopes (ankle + wrist),6,1,0,0.0
+Gyroscopes (ankle + wrist),6,2,0,0.0
+Gyroscopes (ankle + wrist),6,3,0,0.0
+Gyroscopes (ankle + wrist),6,4,0,0.0
+Gyroscopes (ankle + wrist),6,5,7,0.01808785529715762
+Gyroscopes (ankle + wrist),6,6,378,0.9767441860465116
+Gyroscopes (ankle + wrist),6,7,0,0.0
+Gyroscopes (ankle + wrist),6,8,2,0.00516795865633075
+Gyroscopes (ankle + wrist),6,9,0,0.0
+Gyroscopes (ankle + wrist),6,10,0,0.0
+Gyroscopes (ankle + wrist),6,11,0,0.0
+Gyroscopes (ankle + wrist),6,12,0,0.0
+Gyroscopes (ankle + wrist),7,1,0,0.0
+Gyroscopes (ankle + wrist),7,2,0,0.0
+Gyroscopes (ankle + wrist),7,3,0,0.0
+Gyroscopes (ankle + wrist),7,4,0,0.0
+Gyroscopes (ankle + wrist),7,5,0,0.0
+Gyroscopes (ankle + wrist),7,6,0,0.0
+Gyroscopes (ankle + wrist),7,7,394,1.0
+Gyroscopes (ankle + wrist),7,8,0,0.0
+Gyroscopes (ankle + wrist),7,9,0,0.0
+Gyroscopes (ankle + wrist),7,10,0,0.0
+Gyroscopes (ankle + wrist),7,11,0,0.0
+Gyroscopes (ankle + wrist),7,12,0,0.0
+Gyroscopes (ankle + wrist),8,1,0,0.0
+Gyroscopes (ankle + wrist),8,2,0,0.0
+Gyroscopes (ankle + wrist),8,3,0,0.0
+Gyroscopes (ankle + wrist),8,4,19,0.04834605597964377
+Gyroscopes (ankle + wrist),8,5,109,0.27735368956743
+Gyroscopes (ankle + wrist),8,6,0,0.0
+Gyroscopes (ankle + wrist),8,7,0,0.0
+Gyroscopes (ankle + wrist),8,8,248,0.6310432569974554
+Gyroscopes (ankle + wrist),8,9,13,0.03307888040712468
+Gyroscopes (ankle + wrist),8,10,1,0.002544529262086514
+Gyroscopes (ankle + wrist),8,11,0,0.0
+Gyroscopes (ankle + wrist),8,12,3,0.007633587786259542
+Gyroscopes (ankle + wrist),9,1,0,0.0
+Gyroscopes (ankle + wrist),9,2,0,0.0
+Gyroscopes (ankle + wrist),9,3,0,0.0
+Gyroscopes (ankle + wrist),9,4,0,0.0
+Gyroscopes (ankle + wrist),9,5,19,0.046798029556650245
+Gyroscopes (ankle + wrist),9,6,0,0.0
+Gyroscopes (ankle + wrist),9,7,0,0.0
+Gyroscopes (ankle + wrist),9,8,54,0.1330049261083744
+Gyroscopes (ankle + wrist),9,9,333,0.8201970443349754
+Gyroscopes (ankle + wrist),9,10,0,0.0
+Gyroscopes (ankle + wrist),9,11,0,0.0
+Gyroscopes (ankle + wrist),9,12,0,0.0
+Gyroscopes (ankle + wrist),10,1,0,0.0
+Gyroscopes (ankle + wrist),10,2,0,0.0
+Gyroscopes (ankle + wrist),10,3,0,0.0
+Gyroscopes (ankle + wrist),10,4,13,0.03125
+Gyroscopes (ankle + wrist),10,5,38,0.09134615384615384
+Gyroscopes (ankle + wrist),10,6,0,0.0
+Gyroscopes (ankle + wrist),10,7,0,0.0
+Gyroscopes (ankle + wrist),10,8,2,0.004807692307692308
+Gyroscopes (ankle + wrist),10,9,0,0.0
+Gyroscopes (ankle + wrist),10,10,279,0.6706730769230769
+Gyroscopes (ankle + wrist),10,11,70,0.16826923076923078
+Gyroscopes (ankle + wrist),10,12,14,0.03365384615384615
+Gyroscopes (ankle + wrist),11,1,0,0.0
+Gyroscopes (ankle + wrist),11,2,0,0.0
+Gyroscopes (ankle + wrist),11,3,0,0.0
+Gyroscopes (ankle + wrist),11,4,0,0.0
+Gyroscopes (ankle + wrist),11,5,53,0.13216957605985039
+Gyroscopes (ankle + wrist),11,6,0,0.0
+Gyroscopes (ankle + wrist),11,7,0,0.0
+Gyroscopes (ankle + wrist),11,8,0,0.0
+Gyroscopes (ankle + wrist),11,9,0,0.0
+Gyroscopes (ankle + wrist),11,10,55,0.1371571072319202
+Gyroscopes (ankle + wrist),11,11,293,0.7306733167082294
+Gyroscopes (ankle + wrist),11,12,0,0.0
+Gyroscopes (ankle + wrist),12,1,0,0.0
+Gyroscopes (ankle + wrist),12,2,0,0.0
+Gyroscopes (ankle + wrist),12,3,0,0.0
+Gyroscopes (ankle + wrist),12,4,10,0.09090909090909091
+Gyroscopes (ankle + wrist),12,5,56,0.509090909090909
+Gyroscopes (ankle + wrist),12,6,0,0.0
+Gyroscopes (ankle + wrist),12,7,0,0.0
+Gyroscopes (ankle + wrist),12,8,4,0.03636363636363636
+Gyroscopes (ankle + wrist),12,9,0,0.0
+Gyroscopes (ankle + wrist),12,10,23,0.20909090909090908
+Gyroscopes (ankle + wrist),12,11,0,0.0
+Gyroscopes (ankle + wrist),12,12,17,0.15454545454545454
+Feature fusion,1,1,414,1.0
+Feature fusion,1,2,0,0.0
+Feature fusion,1,3,0,0.0
+Feature fusion,1,4,0,0.0
+Feature fusion,1,5,0,0.0
+Feature fusion,1,6,0,0.0
+Feature fusion,1,7,0,0.0
+Feature fusion,1,8,0,0.0
+Feature fusion,1,9,0,0.0
+Feature fusion,1,10,0,0.0
+Feature fusion,1,11,0,0.0
+Feature fusion,1,12,0,0.0
+Feature fusion,2,1,41,0.09879518072289156
+Feature fusion,2,2,374,0.9012048192771084
+Feature fusion,2,3,0,0.0
+Feature fusion,2,4,0,0.0
+Feature fusion,2,5,0,0.0
+Feature fusion,2,6,0,0.0
+Feature fusion,2,7,0,0.0
+Feature fusion,2,8,0,0.0
+Feature fusion,2,9,0,0.0
+Feature fusion,2,10,0,0.0
+Feature fusion,2,11,0,0.0
+Feature fusion,2,12,0,0.0
+Feature fusion,3,1,0,0.0
+Feature fusion,3,2,0,0.0
+Feature fusion,3,3,407,1.0
+Feature fusion,3,4,0,0.0
+Feature fusion,3,5,0,0.0
+Feature fusion,3,6,0,0.0
+Feature fusion,3,7,0,0.0
+Feature fusion,3,8,0,0.0
+Feature fusion,3,9,0,0.0
+Feature fusion,3,10,0,0.0
+Feature fusion,3,11,0,0.0
+Feature fusion,3,12,0,0.0
+Feature fusion,4,1,0,0.0
+Feature fusion,4,2,0,0.0
+Feature fusion,4,3,0,0.0
+Feature fusion,4,4,416,1.0
+Feature fusion,4,5,0,0.0
+Feature fusion,4,6,0,0.0
+Feature fusion,4,7,0,0.0
+Feature fusion,4,8,0,0.0
+Feature fusion,4,9,0,0.0
+Feature fusion,4,10,0,0.0
+Feature fusion,4,11,0,0.0
+Feature fusion,4,12,0,0.0
+Feature fusion,5,1,0,0.0
+Feature fusion,5,2,0,0.0
+Feature fusion,5,3,0,0.0
+Feature fusion,5,4,1,0.002369668246445498
+Feature fusion,5,5,421,0.9976303317535545
+Feature fusion,5,6,0,0.0
+Feature fusion,5,7,0,0.0
+Feature fusion,5,8,0,0.0
+Feature fusion,5,9,0,0.0
+Feature fusion,5,10,0,0.0
+Feature fusion,5,11,0,0.0
+Feature fusion,5,12,0,0.0
+Feature fusion,6,1,0,0.0
+Feature fusion,6,2,0,0.0
+Feature fusion,6,3,0,0.0
+Feature fusion,6,4,0,0.0
+Feature fusion,6,5,0,0.0
+Feature fusion,6,6,387,1.0
+Feature fusion,6,7,0,0.0
+Feature fusion,6,8,0,0.0
+Feature fusion,6,9,0,0.0
+Feature fusion,6,10,0,0.0
+Feature fusion,6,11,0,0.0
+Feature fusion,6,12,0,0.0
+Feature fusion,7,1,0,0.0
+Feature fusion,7,2,0,0.0
+Feature fusion,7,3,0,0.0
+Feature fusion,7,4,0,0.0
+Feature fusion,7,5,0,0.0
+Feature fusion,7,6,0,0.0
+Feature fusion,7,7,394,1.0
+Feature fusion,7,8,0,0.0
+Feature fusion,7,9,0,0.0
+Feature fusion,7,10,0,0.0
+Feature fusion,7,11,0,0.0
+Feature fusion,7,12,0,0.0
+Feature fusion,8,1,0,0.0
+Feature fusion,8,2,0,0.0
+Feature fusion,8,3,0,0.0
+Feature fusion,8,4,0,0.0
+Feature fusion,8,5,7,0.017811704834605598
+Feature fusion,8,6,0,0.0
+Feature fusion,8,7,0,0.0
+Feature fusion,8,8,385,0.9796437659033079
+Feature fusion,8,9,1,0.002544529262086514
+Feature fusion,8,10,0,0.0
+Feature fusion,8,11,0,0.0
+Feature fusion,8,12,0,0.0
+Feature fusion,9,1,0,0.0
+Feature fusion,9,2,0,0.0
+Feature fusion,9,3,0,0.0
+Feature fusion,9,4,0,0.0
+Feature fusion,9,5,0,0.0
+Feature fusion,9,6,0,0.0
+Feature fusion,9,7,0,0.0
+Feature fusion,9,8,2,0.0049261083743842365
+Feature fusion,9,9,404,0.9950738916256158
+Feature fusion,9,10,0,0.0
+Feature fusion,9,11,0,0.0
+Feature fusion,9,12,0,0.0
+Feature fusion,10,1,0,0.0
+Feature fusion,10,2,0,0.0
+Feature fusion,10,3,0,0.0
+Feature fusion,10,4,0,0.0
+Feature fusion,10,5,0,0.0
+Feature fusion,10,6,0,0.0
+Feature fusion,10,7,0,0.0
+Feature fusion,10,8,0,0.0
+Feature fusion,10,9,0,0.0
+Feature fusion,10,10,381,0.9158653846153846
+Feature fusion,10,11,35,0.08413461538461539
+Feature fusion,10,12,0,0.0
+Feature fusion,11,1,0,0.0
+Feature fusion,11,2,0,0.0
+Feature fusion,11,3,0,0.0
+Feature fusion,11,4,0,0.0
+Feature fusion,11,5,0,0.0
+Feature fusion,11,6,0,0.0
+Feature fusion,11,7,0,0.0
+Feature fusion,11,8,0,0.0
+Feature fusion,11,9,0,0.0
+Feature fusion,11,10,70,0.1745635910224439
+Feature fusion,11,11,331,0.8254364089775561
+Feature fusion,11,12,0,0.0
+Feature fusion,12,1,0,0.0
+Feature fusion,12,2,0,0.0
+Feature fusion,12,3,0,0.0
+Feature fusion,12,4,0,0.0
+Feature fusion,12,5,0,0.0
+Feature fusion,12,6,0,0.0
+Feature fusion,12,7,0,0.0
+Feature fusion,12,8,0,0.0
+Feature fusion,12,9,0,0.0
+Feature fusion,12,10,6,0.05454545454545454
+Feature fusion,12,11,0,0.0
+Feature fusion,12,12,104,0.9454545454545454
+Decision fusion,1,1,413,0.9975845410628019
+Decision fusion,1,2,0,0.0
+Decision fusion,1,3,0,0.0
+Decision fusion,1,4,0,0.0
+Decision fusion,1,5,0,0.0
+Decision fusion,1,6,1,0.0024154589371980675
+Decision fusion,1,7,0,0.0
+Decision fusion,1,8,0,0.0
+Decision fusion,1,9,0,0.0
+Decision fusion,1,10,0,0.0
+Decision fusion,1,11,0,0.0
+Decision fusion,1,12,0,0.0
+Decision fusion,2,1,41,0.09879518072289156
+Decision fusion,2,2,374,0.9012048192771084
+Decision fusion,2,3,0,0.0
+Decision fusion,2,4,0,0.0
+Decision fusion,2,5,0,0.0
+Decision fusion,2,6,0,0.0
+Decision fusion,2,7,0,0.0
+Decision fusion,2,8,0,0.0
+Decision fusion,2,9,0,0.0
+Decision fusion,2,10,0,0.0
+Decision fusion,2,11,0,0.0
+Decision fusion,2,12,0,0.0
+Decision fusion,3,1,0,0.0
+Decision fusion,3,2,0,0.0
+Decision fusion,3,3,407,1.0
+Decision fusion,3,4,0,0.0
+Decision fusion,3,5,0,0.0
+Decision fusion,3,6,0,0.0
+Decision fusion,3,7,0,0.0
+Decision fusion,3,8,0,0.0
+Decision fusion,3,9,0,0.0
+Decision fusion,3,10,0,0.0
+Decision fusion,3,11,0,0.0
+Decision fusion,3,12,0,0.0
+Decision fusion,4,1,0,0.0
+Decision fusion,4,2,0,0.0
+Decision fusion,4,3,0,0.0
+Decision fusion,4,4,416,1.0
+Decision fusion,4,5,0,0.0
+Decision fusion,4,6,0,0.0
+Decision fusion,4,7,0,0.0
+Decision fusion,4,8,0,0.0
+Decision fusion,4,9,0,0.0
+Decision fusion,4,10,0,0.0
+Decision fusion,4,11,0,0.0
+Decision fusion,4,12,0,0.0
+Decision fusion,5,1,0,0.0
+Decision fusion,5,2,0,0.0
+Decision fusion,5,3,0,0.0
+Decision fusion,5,4,0,0.0
+Decision fusion,5,5,422,1.0
+Decision fusion,5,6,0,0.0
+Decision fusion,5,7,0,0.0
+Decision fusion,5,8,0,0.0
+Decision fusion,5,9,0,0.0
+Decision fusion,5,10,0,0.0
+Decision fusion,5,11,0,0.0
+Decision fusion,5,12,0,0.0
+Decision fusion,6,1,0,0.0
+Decision fusion,6,2,0,0.0
+Decision fusion,6,3,0,0.0
+Decision fusion,6,4,0,0.0
+Decision fusion,6,5,0,0.0
+Decision fusion,6,6,387,1.0
+Decision fusion,6,7,0,0.0
+Decision fusion,6,8,0,0.0
+Decision fusion,6,9,0,0.0
+Decision fusion,6,10,0,0.0
+Decision fusion,6,11,0,0.0
+Decision fusion,6,12,0,0.0
+Decision fusion,7,1,0,0.0
+Decision fusion,7,2,0,0.0
+Decision fusion,7,3,0,0.0
+Decision fusion,7,4,0,0.0
+Decision fusion,7,5,0,0.0
+Decision fusion,7,6,0,0.0
+Decision fusion,7,7,394,1.0
+Decision fusion,7,8,0,0.0
+Decision fusion,7,9,0,0.0
+Decision fusion,7,10,0,0.0
+Decision fusion,7,11,0,0.0
+Decision fusion,7,12,0,0.0
+Decision fusion,8,1,0,0.0
+Decision fusion,8,2,0,0.0
+Decision fusion,8,3,0,0.0
+Decision fusion,8,4,0,0.0
+Decision fusion,8,5,40,0.10178117048346055
+Decision fusion,8,6,0,0.0
+Decision fusion,8,7,0,0.0
+Decision fusion,8,8,351,0.8931297709923665
+Decision fusion,8,9,2,0.005089058524173028
+Decision fusion,8,10,0,0.0
+Decision fusion,8,11,0,0.0
+Decision fusion,8,12,0,0.0
+Decision fusion,9,1,0,0.0
+Decision fusion,9,2,0,0.0
+Decision fusion,9,3,0,0.0
+Decision fusion,9,4,0,0.0
+Decision fusion,9,5,0,0.0
+Decision fusion,9,6,0,0.0
+Decision fusion,9,7,0,0.0
+Decision fusion,9,8,1,0.0024630541871921183
+Decision fusion,9,9,405,0.9975369458128078
+Decision fusion,9,10,0,0.0
+Decision fusion,9,11,0,0.0
+Decision fusion,9,12,0,0.0
+Decision fusion,10,1,0,0.0
+Decision fusion,10,2,0,0.0
+Decision fusion,10,3,0,0.0
+Decision fusion,10,4,0,0.0
+Decision fusion,10,5,0,0.0
+Decision fusion,10,6,0,0.0
+Decision fusion,10,7,0,0.0
+Decision fusion,10,8,0,0.0
+Decision fusion,10,9,0,0.0
+Decision fusion,10,10,386,0.9278846153846154
+Decision fusion,10,11,30,0.07211538461538461
+Decision fusion,10,12,0,0.0
+Decision fusion,11,1,0,0.0
+Decision fusion,11,2,0,0.0
+Decision fusion,11,3,0,0.0
+Decision fusion,11,4,0,0.0
+Decision fusion,11,5,0,0.0
+Decision fusion,11,6,0,0.0
+Decision fusion,11,7,0,0.0
+Decision fusion,11,8,0,0.0
+Decision fusion,11,9,0,0.0
+Decision fusion,11,10,40,0.09975062344139651
+Decision fusion,11,11,361,0.9002493765586035
+Decision fusion,11,12,0,0.0
+Decision fusion,12,1,0,0.0
+Decision fusion,12,2,0,0.0
+Decision fusion,12,3,0,0.0
+Decision fusion,12,4,2,0.01818181818181818
+Decision fusion,12,5,0,0.0
+Decision fusion,12,6,0,0.0
+Decision fusion,12,7,0,0.0
+Decision fusion,12,8,0,0.0
+Decision fusion,12,9,0,0.0
+Decision fusion,12,10,6,0.05454545454545454
+Decision fusion,12,11,0,0.0
+Decision fusion,12,12,102,0.9272727272727272

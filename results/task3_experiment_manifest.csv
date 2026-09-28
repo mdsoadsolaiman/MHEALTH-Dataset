@@ -1,0 +1,8 @@
+model,features,sources,modalities,component_models
+Chest accelerometer,18,1,1,1
+Ankle accelerometer,18,1,1,1
+Wrist accelerometer,18,1,1,1
+Accelerometers (all locations),54,3,1,1
+Gyroscopes (ankle + wrist),36,2,1,1
+Feature fusion,90,3,2,1
+Decision fusion,90,3,2,2

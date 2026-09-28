@@ -1,0 +1,22 @@
+{
+  "sampling_hz_assumed_from_documentation": 50,
+  "max_internal_gap_samples": 5,
+  "window_samples": 128,
+  "stride_samples": 64,
+  "max_original_missing_fraction_per_channel": 0.2,
+  "residual_missing_policy": "reject window",
+  "label_policy": "keep 1\u201312, exclude 0",
+  "feature_statistics": [
+    "mean",
+    "std",
+    "min",
+    "max",
+    "rms",
+    "iqr"
+  ],
+  "seed": 42,
+  "archive_sha256": "53af1f760e55873c717262ddec41a94aabb0b110157e4b7a263bb81ddd0d3dce",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3"
+}

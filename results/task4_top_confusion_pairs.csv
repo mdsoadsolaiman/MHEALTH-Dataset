@@ -1,0 +1,22 @@
+model,true_label,predicted_label,count,row_fraction,true_activity,predicted_activity
+Accelerometers (all locations),11,10,69,0.17206982543640897,Running,Jogging
+Accelerometers (all locations),2,1,41,0.09879518072289156,Sitting,Standing
+Accelerometers (all locations),10,11,24,0.057692307692307696,Jogging,Running
+Ankle accelerometer,2,1,200,0.4819277108433735,Sitting,Standing
+Ankle accelerometer,3,2,83,0.20393120393120392,Lying down,Sitting
+Ankle accelerometer,1,2,78,0.18840579710144928,Standing,Sitting
+Chest accelerometer,2,1,260,0.6265060240963856,Sitting,Standing
+Chest accelerometer,4,5,95,0.2283653846153846,Walking,Climbing stairs
+Chest accelerometer,1,2,88,0.21256038647342995,Standing,Sitting
+Decision fusion,2,1,41,0.09879518072289156,Sitting,Standing
+Decision fusion,8,5,40,0.10178117048346055,Knees bending,Climbing stairs
+Decision fusion,11,10,40,0.09975062344139651,Running,Jogging
+Feature fusion,11,10,70,0.1745635910224439,Running,Jogging
+Feature fusion,2,1,41,0.09879518072289156,Sitting,Standing
+Feature fusion,10,11,35,0.08413461538461539,Jogging,Running
+Gyroscopes (ankle + wrist),8,5,109,0.27735368956743,Knees bending,Climbing stairs
+Gyroscopes (ankle + wrist),1,2,84,0.2028985507246377,Standing,Sitting
+Gyroscopes (ankle + wrist),2,1,84,0.20240963855421687,Sitting,Standing
+Wrist accelerometer,4,5,151,0.3629807692307692,Walking,Climbing stairs
+Wrist accelerometer,6,5,125,0.32299741602067183,Waist bends,Climbing stairs
+Wrist accelerometer,5,8,99,0.23459715639810427,Climbing stairs,Knees bending

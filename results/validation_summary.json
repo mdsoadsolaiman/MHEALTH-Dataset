@@ -1,0 +1,14 @@
+{
+  "task_1_2": "completed, subject to checking original assignment brief",
+  "raw_rows": 343195,
+  "participants": 10,
+  "activities": 12,
+  "sensor_channels": 23,
+  "candidate_windows": 5229,
+  "retained_windows": 4581,
+  "features": 138,
+  "figures": 4,
+  "code_cells_executed": 10,
+  "execution": "fresh process, sequential IPython execution; Jupyter socket launch unavailable",
+  "checks": "finite features; unique and aligned IDs; participant-disjoint folds; boundary-safe segmentation; unchanged observed sensor values; gap rule unit checks; figures visually reviewed"
+}

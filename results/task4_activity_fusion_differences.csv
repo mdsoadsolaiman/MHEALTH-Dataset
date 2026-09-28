@@ -1,0 +1,145 @@
+fusion,comparator,activity,f1_difference_pp
+Feature fusion,Chest accelerometer,Standing,30.55247433878113
+Feature fusion,Chest accelerometer,Sitting,47.76257762750721
+Feature fusion,Chest accelerometer,Lying down,0.0
+Feature fusion,Chest accelerometer,Walking,20.12839918576126
+Feature fusion,Chest accelerometer,Climbing stairs,23.78767385479138
+Feature fusion,Chest accelerometer,Waist bends,2.9525032092426184
+Feature fusion,Chest accelerometer,Arm elevation,0.8871989860583018
+Feature fusion,Chest accelerometer,Knees bending,17.467948717948723
+Feature fusion,Chest accelerometer,Cycling,6.5779771320521485
+Feature fusion,Chest accelerometer,Jogging,3.0499292500505315
+Feature fusion,Chest accelerometer,Running,1.9392706447171948
+Feature fusion,Chest accelerometer,Jump front/back,2.2653861062061242
+Feature fusion,Ankle accelerometer,Standing,34.03589312990085
+Feature fusion,Ankle accelerometer,Sitting,40.64737751130948
+Feature fusion,Ankle accelerometer,Lying down,11.354309165526677
+Feature fusion,Ankle accelerometer,Walking,0.0
+Feature fusion,Ankle accelerometer,Climbing stairs,7.862435267560752
+Feature fusion,Ankle accelerometer,Waist bends,1.285347043701801
+Feature fusion,Ankle accelerometer,Arm elevation,11.054637865311312
+Feature fusion,Ankle accelerometer,Knees bending,4.717948717948728
+Feature fusion,Ankle accelerometer,Cycling,15.321575674895715
+Feature fusion,Ankle accelerometer,Jogging,-5.147838331953158
+Feature fusion,Ankle accelerometer,Running,-5.302603356184554
+Feature fusion,Ankle accelerometer,Jump front/back,-2.8037383177570097
+Feature fusion,Wrist accelerometer,Standing,3.7443885605500604
+Feature fusion,Wrist accelerometer,Sitting,14.803548795944232
+Feature fusion,Wrist accelerometer,Lying down,11.057108140947747
+Feature fusion,Wrist accelerometer,Walking,46.022601180210074
+Feature fusion,Wrist accelerometer,Climbing stairs,50.11855377989346
+Feature fusion,Wrist accelerometer,Waist bends,52.85053929121726
+Feature fusion,Wrist accelerometer,Arm elevation,4.040404040404044
+Feature fusion,Wrist accelerometer,Knees bending,44.44894286999551
+Feature fusion,Wrist accelerometer,Cycling,0.12028239162495957
+Feature fusion,Wrist accelerometer,Jogging,11.831777176645597
+Feature fusion,Wrist accelerometer,Running,8.734542293864322
+Feature fusion,Wrist accelerometer,Jump front/back,25.554470637466874
+Feature fusion,Accelerometers (all locations),Standing,0.0
+Feature fusion,Accelerometers (all locations),Sitting,0.0
+Feature fusion,Accelerometers (all locations),Lying down,0.0
+Feature fusion,Accelerometers (all locations),Walking,0.0
+Feature fusion,Accelerometers (all locations),Climbing stairs,-0.23362930077691635
+Feature fusion,Accelerometers (all locations),Waist bends,0.1290322580645209
+Feature fusion,Accelerometers (all locations),Arm elevation,0.0
+Feature fusion,Accelerometers (all locations),Knees bending,-0.3834633488035255
+Feature fusion,Accelerometers (all locations),Cycling,-0.24691245679411278
+Feature fusion,Accelerometers (all locations),Jogging,-1.704560968284241
+Feature fusion,Accelerometers (all locations),Running,-1.4043632743675372
+Feature fusion,Accelerometers (all locations),Jump front/back,-0.9518864659051607
+Feature fusion,Gyroscopes (ankle + wrist),Standing,21.357882623705404
+Feature fusion,Gyroscopes (ankle + wrist),Sitting,28.59984509224053
+Feature fusion,Gyroscopes (ankle + wrist),Lying down,19.6078431372549
+Feature fusion,Gyroscopes (ankle + wrist),Walking,15.01642840759132
+Feature fusion,Gyroscopes (ankle + wrist),Climbing stairs,28.389869841590155
+Feature fusion,Gyroscopes (ankle + wrist),Waist bends,1.4341590612777066
+Feature fusion,Gyroscopes (ankle + wrist),Arm elevation,0.0
+Feature fusion,Gyroscopes (ankle + wrist),Knees bending,30.679539938799206
+Feature fusion,Gyroscopes (ankle + wrist),Cycling,11.183871173751358
+Feature fusion,Gyroscopes (ankle + wrist),Jogging,15.192200111883647
+Feature fusion,Gyroscopes (ankle + wrist),Running,9.608729188993625
+Feature fusion,Gyroscopes (ankle + wrist),Jump front/back,73.74798582017402
+Feature fusion,Decision fusion,Standing,0.12064293403615256
+Feature fusion,Decision fusion,Sitting,0.0
+Feature fusion,Decision fusion,Lying down,0.0
+Feature fusion,Decision fusion,Walking,0.11976013426953092
+Feature fusion,Decision fusion,Climbing stairs,3.583710407239815
+Feature fusion,Decision fusion,Waist bends,0.1290322580645209
+Feature fusion,Decision fusion,Arm elevation,0.0
+Feature fusion,Decision fusion,Knees bending,4.489760798485632
+Feature fusion,Decision fusion,Cycling,-0.000909996769515864
+Feature fusion,Decision fusion,Jogging,-3.752512481359005
+Feature fusion,Decision fusion,Running,-4.851316291994268
+Feature fusion,Decision fusion,Jump front/back,0.9698465879033669
+Decision fusion,Chest accelerometer,Standing,30.43183140474498
+Decision fusion,Chest accelerometer,Sitting,47.76257762750721
+Decision fusion,Chest accelerometer,Lying down,0.0
+Decision fusion,Chest accelerometer,Walking,20.008639051491727
+Decision fusion,Chest accelerometer,Climbing stairs,20.203963447551565
+Decision fusion,Chest accelerometer,Waist bends,2.8234709511780975
+Decision fusion,Chest accelerometer,Arm elevation,0.8871989860583018
+Decision fusion,Chest accelerometer,Knees bending,12.97818791946309
+Decision fusion,Chest accelerometer,Cycling,6.578887128821664
+Decision fusion,Chest accelerometer,Jogging,6.8024417314095365
+Decision fusion,Chest accelerometer,Running,6.790586936711462
+Decision fusion,Chest accelerometer,Jump front/back,1.2955395183027574
+Decision fusion,Ankle accelerometer,Standing,33.9152501958647
+Decision fusion,Ankle accelerometer,Sitting,40.64737751130948
+Decision fusion,Ankle accelerometer,Lying down,11.354309165526677
+Decision fusion,Ankle accelerometer,Walking,-0.11976013426953092
+Decision fusion,Ankle accelerometer,Climbing stairs,4.278724860320937
+Decision fusion,Ankle accelerometer,Waist bends,1.1563147856372802
+Decision fusion,Ankle accelerometer,Arm elevation,11.054637865311312
+Decision fusion,Ankle accelerometer,Knees bending,0.22818791946309647
+Decision fusion,Ankle accelerometer,Cycling,15.32248567166523
+Decision fusion,Ankle accelerometer,Jogging,-1.3953258505941535
+Decision fusion,Ankle accelerometer,Running,-0.45128706419028664
+Decision fusion,Ankle accelerometer,Jump front/back,-3.7735849056603765
+Decision fusion,Wrist accelerometer,Standing,3.623745626513908
+Decision fusion,Wrist accelerometer,Sitting,14.803548795944232
+Decision fusion,Wrist accelerometer,Lying down,11.057108140947747
+Decision fusion,Wrist accelerometer,Walking,45.90284104594055
+Decision fusion,Wrist accelerometer,Climbing stairs,46.53484337265365
+Decision fusion,Wrist accelerometer,Waist bends,52.72150703315274
+Decision fusion,Wrist accelerometer,Arm elevation,4.040404040404044
+Decision fusion,Wrist accelerometer,Knees bending,39.95918207150988
+Decision fusion,Wrist accelerometer,Cycling,0.12119238839447544
+Decision fusion,Wrist accelerometer,Jogging,15.584289658004602
+Decision fusion,Wrist accelerometer,Running,13.58585858585859
+Decision fusion,Wrist accelerometer,Jump front/back,24.58462404956351
+Decision fusion,Accelerometers (all locations),Standing,-0.12064293403615256
+Decision fusion,Accelerometers (all locations),Sitting,0.0
+Decision fusion,Accelerometers (all locations),Lying down,0.0
+Decision fusion,Accelerometers (all locations),Walking,-0.11976013426953092
+Decision fusion,Accelerometers (all locations),Climbing stairs,-3.8173397080167315
+Decision fusion,Accelerometers (all locations),Waist bends,0.0
+Decision fusion,Accelerometers (all locations),Arm elevation,0.0
+Decision fusion,Accelerometers (all locations),Knees bending,-4.873224147289157
+Decision fusion,Accelerometers (all locations),Cycling,-0.24600246002459691
+Decision fusion,Accelerometers (all locations),Jogging,2.047951513074764
+Decision fusion,Accelerometers (all locations),Running,3.4469530176267305
+Decision fusion,Accelerometers (all locations),Jump front/back,-1.9217330538085275
+Decision fusion,Gyroscopes (ankle + wrist),Standing,21.237239689669252
+Decision fusion,Gyroscopes (ankle + wrist),Sitting,28.59984509224053
+Decision fusion,Gyroscopes (ankle + wrist),Lying down,19.6078431372549
+Decision fusion,Gyroscopes (ankle + wrist),Walking,14.89666827332179
+Decision fusion,Gyroscopes (ankle + wrist),Climbing stairs,24.806159434350338
+Decision fusion,Gyroscopes (ankle + wrist),Waist bends,1.3051268032131857
+Decision fusion,Gyroscopes (ankle + wrist),Arm elevation,0.0
+Decision fusion,Gyroscopes (ankle + wrist),Knees bending,26.189779140313576
+Decision fusion,Gyroscopes (ankle + wrist),Cycling,11.184781170520875
+Decision fusion,Gyroscopes (ankle + wrist),Jogging,18.944712593242652
+Decision fusion,Gyroscopes (ankle + wrist),Running,14.460045480987894
+Decision fusion,Gyroscopes (ankle + wrist),Jump front/back,72.77813923227066
+Decision fusion,Feature fusion,Standing,-0.12064293403615256
+Decision fusion,Feature fusion,Sitting,0.0
+Decision fusion,Feature fusion,Lying down,0.0
+Decision fusion,Feature fusion,Walking,-0.11976013426953092
+Decision fusion,Feature fusion,Climbing stairs,-3.583710407239815
+Decision fusion,Feature fusion,Waist bends,-0.1290322580645209
+Decision fusion,Feature fusion,Arm elevation,0.0
+Decision fusion,Feature fusion,Knees bending,-4.489760798485632
+Decision fusion,Feature fusion,Cycling,0.000909996769515864
+Decision fusion,Feature fusion,Jogging,3.752512481359005
+Decision fusion,Feature fusion,Running,4.851316291994268
+Decision fusion,Feature fusion,Jump front/back,-0.9698465879033669

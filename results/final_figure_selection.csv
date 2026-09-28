@@ -1,0 +1,10 @@
+figure,filename,task,purpose,key_message,placement
+1,Figure 1.png,1,Activity and participant coverage,Class counts differ; every participant has all activities,Final report
+2,Figure 2.png,1,Movement patterns,Raw chest acceleration differs across activities and participants,Final report
+3,Figure 3.png,2,Missingness structure,Missingness differs markedly by channel,Final report
+4,Figure 4.png,2,Preprocessing consequences,Short gaps dominate; explicit eligibility removes some windows,Final report
+5,Figure 5.png,4,Overall model comparison,Strongest pooled macro F1: Accelerometers (all locations),Final report
+6,Figure 6.png,4,Participant variation,Pooled differences do not describe every participant,Final report
+7,Figure 7.png,4,Bootstrap uncertainty,Participant-cluster intervals overlap across the strongest models,Final report
+8,Figure 8.png,4,Activity errors,Confusion matrices expose remaining class-specific errors,Final report
+9,Figure 9.png,4,Feature importance,Accelerometer features dominate grouped impurity importance,Final report

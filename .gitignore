@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments and packaging
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Raw/private data and fitted models
+data/*
+!data/README.md
+models/
+*.joblib
+*.pkl
+*.pickle
+
+# Reproducible generated working outputs
+results/generated_figures/
+results/generated_notes/
+tmp/
+tuning_tmp/

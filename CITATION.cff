@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below. Confirm the repository URL before publication."
+title: "Sensor Fusion for Human Activity Recognition: A Multimodal Evaluation on the MHEALTH Dataset"
+type: software
+authors:
+  - family-names: "Solaiman"
+    given-names: "Md Soad"
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
+keywords:
+  - human activity recognition
+  - wearable sensors
+  - sensor fusion
+  - random forest
+  - MHEALTH
+abstract: >-
+  Reproducible notebooks, derived results, final figures, and report for a
+  participant-independent evaluation of accelerometer and gyroscope fusion on
+  the MHEALTH human activity recognition dataset.

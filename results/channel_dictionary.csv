@@ -1,0 +1,24 @@
+file_column,channel,source,modality,unit
+1,chest_acc_x,chest,acc,m/s²
+2,chest_acc_y,chest,acc,m/s²
+3,chest_acc_z,chest,acc,m/s²
+4,chest_ecg_1,chest,ecg,mV
+5,chest_ecg_2,chest,ecg,mV
+6,ankle_acc_x,ankle,acc,m/s²
+7,ankle_acc_y,ankle,acc,m/s²
+8,ankle_acc_z,ankle,acc,m/s²
+9,ankle_gyro_x,ankle,gyro,documented deg/s
+10,ankle_gyro_y,ankle,gyro,documented deg/s
+11,ankle_gyro_z,ankle,gyro,documented deg/s
+12,ankle_mag_x,ankle,mag,local units
+13,ankle_mag_y,ankle,mag,local units
+14,ankle_mag_z,ankle,mag,local units
+15,wrist_acc_x,wrist,acc,m/s²
+16,wrist_acc_y,wrist,acc,m/s²
+17,wrist_acc_z,wrist,acc,m/s²
+18,wrist_gyro_x,wrist,gyro,documented deg/s
+19,wrist_gyro_y,wrist,gyro,documented deg/s
+20,wrist_gyro_z,wrist,gyro,documented deg/s
+21,wrist_mag_x,wrist,mag,local units
+22,wrist_mag_y,wrist,mag,local units
+23,wrist_mag_z,wrist,mag,local units
